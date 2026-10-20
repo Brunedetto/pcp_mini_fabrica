@@ -1,0 +1,2057 @@
+data,turno,linha,motivo,categoria,duracao_min
+2026-07-01,1º Turno,Linha A,Aguardando qualidade,Não planejada,9.2
+2026-07-01,1º Turno,Linha A,Setup / Troca de produto,Planejada,11.1
+2026-07-01,1º Turno,Linha A,Aguardando qualidade,Não planejada,8.8
+2026-07-01,1º Turno,Linha A,Quebra de máquina,Não planejada,13.7
+2026-07-01,1º Turno,Linha B,Falta de material,Não planejada,19.7
+2026-07-01,1º Turno,Linha B,Ajuste de processo,Não planejada,6.5
+2026-07-01,1º Turno,Linha B,Falta de material,Não planejada,32.3
+2026-07-01,1º Turno,Linha B,Falta de material,Não planejada,7.3
+2026-07-01,1º Turno,Linha B,Quebra de máquina,Não planejada,43.2
+2026-07-01,1º Turno,Linha B,Limpeza / Manutenção,Planejada,13.7
+2026-07-01,1º Turno,Linha C,Ajuste de processo,Não planejada,15.7
+2026-07-01,2º Turno,Linha A,Setup / Troca de produto,Planejada,10.9
+2026-07-01,2º Turno,Linha B,Setup / Troca de produto,Planejada,15.9
+2026-07-01,2º Turno,Linha B,Quebra de máquina,Não planejada,8.8
+2026-07-01,2º Turno,Linha B,Setup / Troca de produto,Planejada,33.5
+2026-07-01,2º Turno,Linha C,Setup / Troca de produto,Planejada,17.1
+2026-07-01,2º Turno,Linha C,Falta de material,Não planejada,10.2
+2026-07-01,2º Turno,Linha C,Setup / Troca de produto,Planejada,32.4
+2026-07-01,2º Turno,Linha C,Quebra de máquina,Não planejada,20.6
+2026-07-01,3º Turno,Linha A,Aguardando qualidade,Não planejada,6.2
+2026-07-01,3º Turno,Linha A,Quebra de máquina,Não planejada,24.8
+2026-07-01,3º Turno,Linha A,Aguardando qualidade,Não planejada,15.0
+2026-07-01,3º Turno,Linha A,Quebra de máquina,Não planejada,34.9
+2026-07-01,3º Turno,Linha B,Quebra de máquina,Não planejada,34.4
+2026-07-01,3º Turno,Linha B,Quebra de máquina,Não planejada,38.0
+2026-07-01,3º Turno,Linha B,Falta de material,Não planejada,8.7
+2026-07-01,3º Turno,Linha B,Falta de material,Não planejada,4.0
+2026-07-01,3º Turno,Linha B,Setup / Troca de produto,Planejada,5.6
+2026-07-01,3º Turno,Linha C,Quebra de máquina,Não planejada,20.8
+2026-07-01,3º Turno,Linha C,Setup / Troca de produto,Planejada,48.4
+2026-07-01,3º Turno,Linha C,Setup / Troca de produto,Planejada,9.2
+2026-07-01,3º Turno,Linha C,Ajuste de processo,Não planejada,9.6
+2026-07-01,3º Turno,Linha C,Ajuste de processo,Não planejada,19.7
+2026-07-02,1º Turno,Linha A,Aguardando qualidade,Não planejada,11.1
+2026-07-02,1º Turno,Linha A,Quebra de máquina,Não planejada,16.7
+2026-07-02,1º Turno,Linha A,Setup / Troca de produto,Planejada,26.6
+2026-07-02,1º Turno,Linha A,Limpeza / Manutenção,Planejada,11.4
+2026-07-02,1º Turno,Linha B,Ajuste de processo,Não planejada,11.5
+2026-07-02,1º Turno,Linha B,Setup / Troca de produto,Planejada,67.7
+2026-07-02,1º Turno,Linha C,Ajuste de processo,Não planejada,7.2
+2026-07-02,1º Turno,Linha C,Setup / Troca de produto,Planejada,30.0
+2026-07-02,1º Turno,Linha C,Setup / Troca de produto,Planejada,37.0
+2026-07-02,2º Turno,Linha A,Ajuste de processo,Não planejada,2.8
+2026-07-02,2º Turno,Linha A,Setup / Troca de produto,Planejada,33.3
+2026-07-02,2º Turno,Linha B,Falta de material,Não planejada,17.1
+2026-07-02,2º Turno,Linha B,Setup / Troca de produto,Planejada,27.7
+2026-07-02,2º Turno,Linha B,Falta de material,Não planejada,7.1
+2026-07-02,2º Turno,Linha B,Falta de material,Não planejada,9.1
+2026-07-02,2º Turno,Linha C,Falta de material,Não planejada,9.7
+2026-07-02,2º Turno,Linha C,Quebra de máquina,Não planejada,27.1
+2026-07-02,3º Turno,Linha A,Setup / Troca de produto,Planejada,17.3
+2026-07-02,3º Turno,Linha A,Limpeza / Manutenção,Planejada,5.2
+2026-07-02,3º Turno,Linha A,Aguardando qualidade,Não planejada,11.5
+2026-07-02,3º Turno,Linha C,Ajuste de processo,Não planejada,11.3
+2026-07-03,1º Turno,Linha A,Setup / Troca de produto,Planejada,120.1
+2026-07-03,2º Turno,Linha A,Falta de material,Não planejada,16.8
+2026-07-03,2º Turno,Linha A,Falta de material,Não planejada,12.4
+2026-07-03,2º Turno,Linha A,Quebra de máquina,Não planejada,21.5
+2026-07-03,2º Turno,Linha A,Quebra de máquina,Não planejada,88.2
+2026-07-03,2º Turno,Linha A,Quebra de máquina,Não planejada,22.4
+2026-07-03,2º Turno,Linha A,Ajuste de processo,Não planejada,7.6
+2026-07-03,2º Turno,Linha A,Aguardando qualidade,Não planejada,25.3
+2026-07-03,2º Turno,Linha B,Ajuste de processo,Não planejada,3.4
+2026-07-03,2º Turno,Linha B,Limpeza / Manutenção,Planejada,13.2
+2026-07-03,2º Turno,Linha B,Setup / Troca de produto,Planejada,74.1
+2026-07-03,2º Turno,Linha B,Aguardando qualidade,Não planejada,7.9
+2026-07-03,2º Turno,Linha C,Setup / Troca de produto,Planejada,29.4
+2026-07-03,2º Turno,Linha C,Falta de material,Não planejada,2.0
+2026-07-03,2º Turno,Linha C,Ajuste de processo,Não planejada,13.6
+2026-07-03,2º Turno,Linha C,Falta de material,Não planejada,9.1
+2026-07-03,3º Turno,Linha A,Limpeza / Manutenção,Planejada,14.9
+2026-07-03,3º Turno,Linha A,Quebra de máquina,Não planejada,26.0
+2026-07-03,3º Turno,Linha A,Setup / Troca de produto,Planejada,46.5
+2026-07-03,3º Turno,Linha A,Quebra de máquina,Não planejada,77.1
+2026-07-03,3º Turno,Linha B,Limpeza / Manutenção,Planejada,10.6
+2026-07-03,3º Turno,Linha B,Falta de material,Não planejada,10.3
+2026-07-03,3º Turno,Linha B,Falta de material,Não planejada,3.0
+2026-07-03,3º Turno,Linha B,Falta de material,Não planejada,7.5
+2026-07-03,3º Turno,Linha B,Aguardando qualidade,Não planejada,10.2
+2026-07-03,3º Turno,Linha C,Aguardando qualidade,Não planejada,4.7
+2026-07-03,3º Turno,Linha C,Setup / Troca de produto,Planejada,27.7
+2026-07-04,1º Turno,Linha A,Setup / Troca de produto,Planejada,21.3
+2026-07-04,1º Turno,Linha A,Falta de material,Não planejada,4.4
+2026-07-04,1º Turno,Linha A,Limpeza / Manutenção,Planejada,7.0
+2026-07-04,1º Turno,Linha B,Setup / Troca de produto,Planejada,57.3
+2026-07-04,1º Turno,Linha B,Limpeza / Manutenção,Planejada,7.6
+2026-07-04,1º Turno,Linha C,Falta de material,Não planejada,21.2
+2026-07-04,1º Turno,Linha C,Ajuste de processo,Não planejada,19.1
+2026-07-04,1º Turno,Linha C,Setup / Troca de produto,Planejada,8.8
+2026-07-04,2º Turno,Linha A,Aguardando qualidade,Não planejada,6.3
+2026-07-04,2º Turno,Linha B,Quebra de máquina,Não planejada,99.2
+2026-07-04,2º Turno,Linha B,Setup / Troca de produto,Planejada,26.4
+2026-07-04,2º Turno,Linha C,Falta de material,Não planejada,5.4
+2026-07-04,2º Turno,Linha C,Quebra de máquina,Não planejada,98.5
+2026-07-04,2º Turno,Linha C,Falta de material,Não planejada,19.4
+2026-07-04,3º Turno,Linha A,Quebra de máquina,Não planejada,34.5
+2026-07-04,3º Turno,Linha A,Limpeza / Manutenção,Planejada,19.0
+2026-07-04,3º Turno,Linha A,Falta de material,Não planejada,7.6
+2026-07-04,3º Turno,Linha A,Limpeza / Manutenção,Planejada,20.1
+2026-07-04,3º Turno,Linha B,Ajuste de processo,Não planejada,7.6
+2026-07-04,3º Turno,Linha B,Limpeza / Manutenção,Planejada,30.9
+2026-07-04,3º Turno,Linha C,Quebra de máquina,Não planejada,31.5
+2026-07-04,3º Turno,Linha C,Setup / Troca de produto,Planejada,30.1
+2026-07-04,3º Turno,Linha C,Setup / Troca de produto,Planejada,43.6
+2026-07-04,3º Turno,Linha C,Falta de material,Não planejada,6.9
+2026-07-04,3º Turno,Linha C,Setup / Troca de produto,Planejada,59.0
+2026-07-04,3º Turno,Linha C,Setup / Troca de produto,Planejada,25.8
+2026-07-05,1º Turno,Linha A,Setup / Troca de produto,Planejada,36.9
+2026-07-05,1º Turno,Linha A,Falta de material,Não planejada,2.0
+2026-07-05,1º Turno,Linha B,Quebra de máquina,Não planejada,48.2
+2026-07-05,1º Turno,Linha B,Limpeza / Manutenção,Planejada,18.7
+2026-07-05,1º Turno,Linha B,Limpeza / Manutenção,Planejada,11.7
+2026-07-05,1º Turno,Linha B,Falta de material,Não planejada,5.9
+2026-07-05,1º Turno,Linha C,Setup / Troca de produto,Planejada,20.6
+2026-07-05,1º Turno,Linha C,Quebra de máquina,Não planejada,33.6
+2026-07-05,1º Turno,Linha C,Setup / Troca de produto,Planejada,28.4
+2026-07-05,2º Turno,Linha A,Setup / Troca de produto,Planejada,81.2
+2026-07-05,2º Turno,Linha A,Falta de material,Não planejada,17.9
+2026-07-05,2º Turno,Linha A,Aguardando qualidade,Não planejada,10.0
+2026-07-05,2º Turno,Linha A,Ajuste de processo,Não planejada,7.1
+2026-07-05,2º Turno,Linha A,Setup / Troca de produto,Planejada,16.5
+2026-07-05,2º Turno,Linha A,Aguardando qualidade,Não planejada,10.0
+2026-07-05,2º Turno,Linha A,Quebra de máquina,Não planejada,18.0
+2026-07-05,2º Turno,Linha B,Quebra de máquina,Não planejada,43.1
+2026-07-05,2º Turno,Linha B,Ajuste de processo,Não planejada,2.5
+2026-07-05,2º Turno,Linha C,Setup / Troca de produto,Planejada,60.6
+2026-07-05,3º Turno,Linha A,Quebra de máquina,Não planejada,20.8
+2026-07-05,3º Turno,Linha B,Quebra de máquina,Não planejada,25.1
+2026-07-05,3º Turno,Linha B,Setup / Troca de produto,Planejada,34.2
+2026-07-05,3º Turno,Linha B,Limpeza / Manutenção,Planejada,44.8
+2026-07-05,3º Turno,Linha B,Quebra de máquina,Não planejada,26.1
+2026-07-05,3º Turno,Linha C,Setup / Troca de produto,Planejada,35.6
+2026-07-05,3º Turno,Linha C,Falta de material,Não planejada,17.2
+2026-07-05,3º Turno,Linha C,Quebra de máquina,Não planejada,5.2
+2026-07-06,1º Turno,Linha A,Aguardando qualidade,Não planejada,5.4
+2026-07-06,1º Turno,Linha A,Falta de material,Não planejada,18.4
+2026-07-06,1º Turno,Linha B,Falta de material,Não planejada,20.0
+2026-07-06,1º Turno,Linha B,Quebra de máquina,Não planejada,45.7
+2026-07-06,1º Turno,Linha C,Ajuste de processo,Não planejada,7.1
+2026-07-06,1º Turno,Linha C,Quebra de máquina,Não planejada,56.4
+2026-07-06,2º Turno,Linha A,Falta de material,Não planejada,12.8
+2026-07-06,2º Turno,Linha B,Ajuste de processo,Não planejada,4.5
+2026-07-06,3º Turno,Linha B,Quebra de máquina,Não planejada,2.0
+2026-07-06,3º Turno,Linha B,Ajuste de processo,Não planejada,26.1
+2026-07-06,3º Turno,Linha B,Aguardando qualidade,Não planejada,2.9
+2026-07-06,3º Turno,Linha B,Ajuste de processo,Não planejada,10.5
+2026-07-07,1º Turno,Linha A,Setup / Troca de produto,Planejada,52.1
+2026-07-07,1º Turno,Linha B,Ajuste de processo,Não planejada,4.6
+2026-07-07,1º Turno,Linha B,Aguardando qualidade,Não planejada,3.3
+2026-07-07,1º Turno,Linha C,Quebra de máquina,Não planejada,49.3
+2026-07-07,1º Turno,Linha C,Setup / Troca de produto,Planejada,3.7
+2026-07-07,1º Turno,Linha C,Setup / Troca de produto,Planejada,7.0
+2026-07-07,1º Turno,Linha C,Ajuste de processo,Não planejada,24.7
+2026-07-07,2º Turno,Linha A,Setup / Troca de produto,Planejada,24.4
+2026-07-07,2º Turno,Linha B,Limpeza / Manutenção,Planejada,12.9
+2026-07-07,2º Turno,Linha B,Falta de material,Não planejada,13.3
+2026-07-07,2º Turno,Linha C,Falta de material,Não planejada,31.0
+2026-07-07,2º Turno,Linha C,Quebra de máquina,Não planejada,13.9
+2026-07-07,3º Turno,Linha A,Ajuste de processo,Não planejada,12.1
+2026-07-07,3º Turno,Linha A,Setup / Troca de produto,Planejada,29.4
+2026-07-07,3º Turno,Linha A,Ajuste de processo,Não planejada,12.3
+2026-07-07,3º Turno,Linha A,Setup / Troca de produto,Planejada,60.2
+2026-07-07,3º Turno,Linha A,Aguardando qualidade,Não planejada,2.9
+2026-07-07,3º Turno,Linha A,Ajuste de processo,Não planejada,10.2
+2026-07-07,3º Turno,Linha B,Aguardando qualidade,Não planejada,4.4
+2026-07-07,3º Turno,Linha B,Setup / Troca de produto,Planejada,59.8
+2026-07-07,3º Turno,Linha B,Setup / Troca de produto,Planejada,77.5
+2026-07-07,3º Turno,Linha C,Quebra de máquina,Não planejada,57.0
+2026-07-07,3º Turno,Linha C,Falta de material,Não planejada,28.2
+2026-07-07,3º Turno,Linha C,Quebra de máquina,Não planejada,29.5
+2026-07-08,1º Turno,Linha A,Ajuste de processo,Não planejada,10.7
+2026-07-08,1º Turno,Linha A,Setup / Troca de produto,Planejada,6.5
+2026-07-08,1º Turno,Linha C,Quebra de máquina,Não planejada,24.5
+2026-07-08,1º Turno,Linha C,Limpeza / Manutenção,Planejada,14.8
+2026-07-08,2º Turno,Linha B,Limpeza / Manutenção,Planejada,6.0
+2026-07-08,2º Turno,Linha C,Ajuste de processo,Não planejada,14.2
+2026-07-08,2º Turno,Linha C,Quebra de máquina,Não planejada,31.5
+2026-07-08,3º Turno,Linha A,Quebra de máquina,Não planejada,11.0
+2026-07-08,3º Turno,Linha A,Quebra de máquina,Não planejada,43.6
+2026-07-08,3º Turno,Linha B,Setup / Troca de produto,Planejada,18.0
+2026-07-08,3º Turno,Linha B,Limpeza / Manutenção,Planejada,7.7
+2026-07-08,3º Turno,Linha B,Falta de material,Não planejada,13.1
+2026-07-08,3º Turno,Linha C,Falta de material,Não planejada,5.2
+2026-07-08,3º Turno,Linha C,Setup / Troca de produto,Planejada,42.7
+2026-07-08,3º Turno,Linha C,Quebra de máquina,Não planejada,41.7
+2026-07-08,3º Turno,Linha C,Quebra de máquina,Não planejada,21.8
+2026-07-09,1º Turno,Linha A,Aguardando qualidade,Não planejada,2.9
+2026-07-09,1º Turno,Linha A,Quebra de máquina,Não planejada,19.5
+2026-07-09,1º Turno,Linha B,Falta de material,Não planejada,14.6
+2026-07-09,1º Turno,Linha B,Quebra de máquina,Não planejada,15.4
+2026-07-09,1º Turno,Linha C,Ajuste de processo,Não planejada,21.2
+2026-07-09,1º Turno,Linha C,Falta de material,Não planejada,20.8
+2026-07-09,1º Turno,Linha C,Quebra de máquina,Não planejada,34.7
+2026-07-09,2º Turno,Linha A,Aguardando qualidade,Não planejada,26.1
+2026-07-09,2º Turno,Linha A,Quebra de máquina,Não planejada,37.9
+2026-07-09,2º Turno,Linha A,Falta de material,Não planejada,16.6
+2026-07-09,2º Turno,Linha A,Falta de material,Não planejada,8.0
+2026-07-09,2º Turno,Linha A,Quebra de máquina,Não planejada,29.2
+2026-07-09,2º Turno,Linha A,Ajuste de processo,Não planejada,7.4
+2026-07-09,2º Turno,Linha B,Ajuste de processo,Não planejada,10.4
+2026-07-09,2º Turno,Linha B,Setup / Troca de produto,Planejada,36.4
+2026-07-09,2º Turno,Linha B,Aguardando qualidade,Não planejada,11.3
+2026-07-09,2º Turno,Linha C,Quebra de máquina,Não planejada,65.1
+2026-07-09,2º Turno,Linha C,Ajuste de processo,Não planejada,14.2
+2026-07-09,3º Turno,Linha A,Falta de material,Não planejada,7.8
+2026-07-09,3º Turno,Linha A,Aguardando qualidade,Não planejada,12.3
+2026-07-09,3º Turno,Linha A,Aguardando qualidade,Não planejada,2.6
+2026-07-09,3º Turno,Linha A,Ajuste de processo,Não planejada,43.4
+2026-07-09,3º Turno,Linha A,Setup / Troca de produto,Planejada,26.1
+2026-07-09,3º Turno,Linha B,Setup / Troca de produto,Planejada,8.8
+2026-07-09,3º Turno,Linha B,Limpeza / Manutenção,Planejada,11.8
+2026-07-09,3º Turno,Linha B,Setup / Troca de produto,Planejada,19.4
+2026-07-09,3º Turno,Linha B,Setup / Troca de produto,Planejada,27.7
+2026-07-09,3º Turno,Linha C,Ajuste de processo,Não planejada,10.5
+2026-07-09,3º Turno,Linha C,Ajuste de processo,Não planejada,2.6
+2026-07-10,1º Turno,Linha A,Setup / Troca de produto,Planejada,33.5
+2026-07-10,1º Turno,Linha A,Quebra de máquina,Não planejada,62.9
+2026-07-10,1º Turno,Linha A,Setup / Troca de produto,Planejada,34.0
+2026-07-10,1º Turno,Linha A,Ajuste de processo,Não planejada,2.7
+2026-07-10,1º Turno,Linha A,Quebra de máquina,Não planejada,52.6
+2026-07-10,1º Turno,Linha A,Limpeza / Manutenção,Planejada,4.3
+2026-07-10,2º Turno,Linha A,Ajuste de processo,Não planejada,31.0
+2026-07-10,2º Turno,Linha A,Setup / Troca de produto,Planejada,2.2
+2026-07-10,2º Turno,Linha C,Ajuste de processo,Não planejada,30.1
+2026-07-10,2º Turno,Linha C,Setup / Troca de produto,Planejada,14.8
+2026-07-10,3º Turno,Linha A,Limpeza / Manutenção,Planejada,14.4
+2026-07-10,3º Turno,Linha B,Setup / Troca de produto,Planejada,17.4
+2026-07-10,3º Turno,Linha B,Ajuste de processo,Não planejada,4.1
+2026-07-10,3º Turno,Linha B,Limpeza / Manutenção,Planejada,39.3
+2026-07-10,3º Turno,Linha B,Setup / Troca de produto,Planejada,8.1
+2026-07-10,3º Turno,Linha B,Quebra de máquina,Não planejada,11.9
+2026-07-10,3º Turno,Linha C,Falta de material,Não planejada,7.5
+2026-07-10,3º Turno,Linha C,Setup / Troca de produto,Planejada,6.3
+2026-07-10,3º Turno,Linha C,Falta de material,Não planejada,23.3
+2026-07-11,1º Turno,Linha A,Setup / Troca de produto,Planejada,79.7
+2026-07-11,1º Turno,Linha C,Limpeza / Manutenção,Planejada,7.0
+2026-07-11,2º Turno,Linha A,Limpeza / Manutenção,Planejada,6.8
+2026-07-11,2º Turno,Linha A,Setup / Troca de produto,Planejada,3.5
+2026-07-11,2º Turno,Linha B,Quebra de máquina,Não planejada,48.9
+2026-07-11,2º Turno,Linha B,Falta de material,Não planejada,22.6
+2026-07-11,2º Turno,Linha B,Aguardando qualidade,Não planejada,2.8
+2026-07-11,2º Turno,Linha B,Aguardando qualidade,Não planejada,8.9
+2026-07-11,2º Turno,Linha C,Setup / Troca de produto,Planejada,54.9
+2026-07-11,3º Turno,Linha A,Falta de material,Não planejada,40.4
+2026-07-11,3º Turno,Linha A,Ajuste de processo,Não planejada,5.4
+2026-07-11,3º Turno,Linha A,Quebra de máquina,Não planejada,28.3
+2026-07-11,3º Turno,Linha A,Setup / Troca de produto,Planejada,46.5
+2026-07-11,3º Turno,Linha A,Setup / Troca de produto,Planejada,16.1
+2026-07-11,3º Turno,Linha B,Aguardando qualidade,Não planejada,6.1
+2026-07-11,3º Turno,Linha B,Falta de material,Não planejada,15.3
+2026-07-11,3º Turno,Linha B,Ajuste de processo,Não planejada,13.1
+2026-07-11,3º Turno,Linha C,Ajuste de processo,Não planejada,2.8
+2026-07-11,3º Turno,Linha C,Quebra de máquina,Não planejada,52.0
+2026-07-12,1º Turno,Linha A,Falta de material,Não planejada,15.6
+2026-07-12,1º Turno,Linha A,Setup / Troca de produto,Planejada,36.3
+2026-07-12,1º Turno,Linha A,Falta de material,Não planejada,2.0
+2026-07-12,1º Turno,Linha A,Quebra de máquina,Não planejada,2.0
+2026-07-12,1º Turno,Linha A,Setup / Troca de produto,Planejada,41.1
+2026-07-12,1º Turno,Linha B,Falta de material,Não planejada,3.5
+2026-07-12,1º Turno,Linha C,Falta de material,Não planejada,18.7
+2026-07-12,1º Turno,Linha C,Setup / Troca de produto,Planejada,39.5
+2026-07-12,2º Turno,Linha A,Ajuste de processo,Não planejada,49.1
+2026-07-12,2º Turno,Linha A,Quebra de máquina,Não planejada,39.9
+2026-07-12,2º Turno,Linha A,Falta de material,Não planejada,5.9
+2026-07-12,2º Turno,Linha B,Aguardando qualidade,Não planejada,2.5
+2026-07-12,2º Turno,Linha B,Setup / Troca de produto,Planejada,77.8
+2026-07-12,2º Turno,Linha C,Aguardando qualidade,Não planejada,15.2
+2026-07-12,2º Turno,Linha C,Quebra de máquina,Não planejada,10.4
+2026-07-12,2º Turno,Linha C,Limpeza / Manutenção,Planejada,24.3
+2026-07-12,3º Turno,Linha A,Limpeza / Manutenção,Planejada,32.9
+2026-07-12,3º Turno,Linha A,Falta de material,Não planejada,11.6
+2026-07-12,3º Turno,Linha A,Quebra de máquina,Não planejada,31.3
+2026-07-12,3º Turno,Linha A,Setup / Troca de produto,Planejada,30.0
+2026-07-12,3º Turno,Linha C,Setup / Troca de produto,Planejada,19.8
+2026-07-12,3º Turno,Linha C,Setup / Troca de produto,Planejada,38.3
+2026-07-12,3º Turno,Linha C,Falta de material,Não planejada,14.9
+2026-07-12,3º Turno,Linha C,Limpeza / Manutenção,Planejada,48.9
+2026-07-12,3º Turno,Linha C,Aguardando qualidade,Não planejada,20.6
+2026-07-13,1º Turno,Linha A,Quebra de máquina,Não planejada,33.5
+2026-07-13,1º Turno,Linha A,Quebra de máquina,Não planejada,55.3
+2026-07-13,1º Turno,Linha A,Setup / Troca de produto,Planejada,18.8
+2026-07-13,1º Turno,Linha A,Setup / Troca de produto,Planejada,4.5
+2026-07-13,1º Turno,Linha B,Setup / Troca de produto,Planejada,6.1
+2026-07-13,1º Turno,Linha B,Falta de material,Não planejada,18.6
+2026-07-13,1º Turno,Linha B,Falta de material,Não planejada,11.7
+2026-07-13,1º Turno,Linha C,Quebra de máquina,Não planejada,38.0
+2026-07-13,1º Turno,Linha C,Aguardando qualidade,Não planejada,3.9
+2026-07-13,1º Turno,Linha C,Limpeza / Manutenção,Planejada,12.9
+2026-07-13,1º Turno,Linha C,Falta de material,Não planejada,3.8
+2026-07-13,1º Turno,Linha C,Setup / Troca de produto,Planejada,50.1
+2026-07-13,2º Turno,Linha A,Aguardando qualidade,Não planejada,6.1
+2026-07-13,2º Turno,Linha B,Quebra de máquina,Não planejada,7.8
+2026-07-13,2º Turno,Linha B,Quebra de máquina,Não planejada,17.3
+2026-07-13,2º Turno,Linha B,Falta de material,Não planejada,5.7
+2026-07-13,2º Turno,Linha C,Quebra de máquina,Não planejada,37.3
+2026-07-13,2º Turno,Linha C,Quebra de máquina,Não planejada,2.8
+2026-07-13,2º Turno,Linha C,Quebra de máquina,Não planejada,32.3
+2026-07-13,2º Turno,Linha C,Quebra de máquina,Não planejada,54.4
+2026-07-13,3º Turno,Linha A,Setup / Troca de produto,Planejada,20.4
+2026-07-13,3º Turno,Linha A,Falta de material,Não planejada,22.4
+2026-07-13,3º Turno,Linha A,Falta de material,Não planejada,5.1
+2026-07-13,3º Turno,Linha A,Setup / Troca de produto,Planejada,39.7
+2026-07-13,3º Turno,Linha A,Aguardando qualidade,Não planejada,22.5
+2026-07-13,3º Turno,Linha A,Quebra de máquina,Não planejada,34.9
+2026-07-13,3º Turno,Linha A,Falta de material,Não planejada,12.4
+2026-07-13,3º Turno,Linha A,Falta de material,Não planejada,22.4
+2026-07-13,3º Turno,Linha A,Setup / Troca de produto,Planejada,12.5
+2026-07-13,3º Turno,Linha B,Limpeza / Manutenção,Planejada,11.1
+2026-07-13,3º Turno,Linha B,Setup / Troca de produto,Planejada,11.5
+2026-07-13,3º Turno,Linha C,Quebra de máquina,Não planejada,24.5
+2026-07-13,3º Turno,Linha C,Quebra de máquina,Não planejada,7.1
+2026-07-13,3º Turno,Linha C,Setup / Troca de produto,Planejada,47.3
+2026-07-14,1º Turno,Linha A,Quebra de máquina,Não planejada,5.7
+2026-07-14,1º Turno,Linha A,Setup / Troca de produto,Planejada,9.7
+2026-07-14,1º Turno,Linha B,Aguardando qualidade,Não planejada,23.2
+2026-07-14,1º Turno,Linha B,Ajuste de processo,Não planejada,21.6
+2026-07-14,1º Turno,Linha B,Setup / Troca de produto,Planejada,18.1
+2026-07-14,1º Turno,Linha B,Quebra de máquina,Não planejada,33.8
+2026-07-14,1º Turno,Linha C,Setup / Troca de produto,Planejada,13.1
+2026-07-14,2º Turno,Linha A,Setup / Troca de produto,Planejada,24.2
+2026-07-14,2º Turno,Linha B,Limpeza / Manutenção,Planejada,4.0
+2026-07-14,2º Turno,Linha B,Ajuste de processo,Não planejada,9.9
+2026-07-14,2º Turno,Linha B,Aguardando qualidade,Não planejada,2.0
+2026-07-14,2º Turno,Linha C,Setup / Troca de produto,Planejada,24.3
+2026-07-14,2º Turno,Linha C,Falta de material,Não planejada,13.0
+2026-07-14,2º Turno,Linha C,Aguardando qualidade,Não planejada,19.5
+2026-07-14,2º Turno,Linha C,Ajuste de processo,Não planejada,8.3
+2026-07-14,3º Turno,Linha A,Quebra de máquina,Não planejada,29.2
+2026-07-14,3º Turno,Linha A,Ajuste de processo,Não planejada,9.3
+2026-07-14,3º Turno,Linha A,Limpeza / Manutenção,Planejada,17.4
+2026-07-14,3º Turno,Linha A,Quebra de máquina,Não planejada,57.7
+2026-07-14,3º Turno,Linha A,Limpeza / Manutenção,Planejada,10.0
+2026-07-14,3º Turno,Linha A,Ajuste de processo,Não planejada,6.4
+2026-07-14,3º Turno,Linha A,Setup / Troca de produto,Planejada,36.9
+2026-07-14,3º Turno,Linha B,Ajuste de processo,Não planejada,8.8
+2026-07-14,3º Turno,Linha C,Setup / Troca de produto,Planejada,8.3
+2026-07-14,3º Turno,Linha C,Falta de material,Não planejada,2.0
+2026-07-14,3º Turno,Linha C,Falta de material,Não planejada,10.3
+2026-07-15,1º Turno,Linha A,Aguardando qualidade,Não planejada,9.2
+2026-07-15,1º Turno,Linha A,Quebra de máquina,Não planejada,45.1
+2026-07-15,1º Turno,Linha A,Setup / Troca de produto,Planejada,6.1
+2026-07-15,1º Turno,Linha B,Ajuste de processo,Não planejada,10.3
+2026-07-15,1º Turno,Linha B,Falta de material,Não planejada,12.6
+2026-07-15,1º Turno,Linha C,Ajuste de processo,Não planejada,10.9
+2026-07-15,2º Turno,Linha A,Ajuste de processo,Não planejada,6.7
+2026-07-15,2º Turno,Linha A,Ajuste de processo,Não planejada,5.9
+2026-07-15,2º Turno,Linha A,Falta de material,Não planejada,31.7
+2026-07-15,2º Turno,Linha B,Ajuste de processo,Não planejada,5.1
+2026-07-15,2º Turno,Linha C,Setup / Troca de produto,Planejada,10.4
+2026-07-15,3º Turno,Linha A,Falta de material,Não planejada,39.2
+2026-07-15,3º Turno,Linha A,Falta de material,Não planejada,24.5
+2026-07-15,3º Turno,Linha A,Aguardando qualidade,Não planejada,2.0
+2026-07-15,3º Turno,Linha A,Setup / Troca de produto,Planejada,4.4
+2026-07-15,3º Turno,Linha A,Quebra de máquina,Não planejada,22.9
+2026-07-15,3º Turno,Linha B,Falta de material,Não planejada,20.8
+2026-07-15,3º Turno,Linha B,Quebra de máquina,Não planejada,31.3
+2026-07-15,3º Turno,Linha C,Quebra de máquina,Não planejada,33.2
+2026-07-15,3º Turno,Linha C,Aguardando qualidade,Não planejada,15.9
+2026-07-15,3º Turno,Linha C,Falta de material,Não planejada,34.1
+2026-07-15,3º Turno,Linha C,Limpeza / Manutenção,Planejada,20.2
+2026-07-16,1º Turno,Linha A,Falta de material,Não planejada,22.8
+2026-07-16,1º Turno,Linha A,Falta de material,Não planejada,12.2
+2026-07-16,1º Turno,Linha A,Quebra de máquina,Não planejada,17.8
+2026-07-16,1º Turno,Linha B,Falta de material,Não planejada,11.0
+2026-07-16,1º Turno,Linha B,Setup / Troca de produto,Planejada,27.8
+2026-07-16,1º Turno,Linha C,Limpeza / Manutenção,Planejada,16.7
+2026-07-16,2º Turno,Linha C,Setup / Troca de produto,Planejada,14.6
+2026-07-16,3º Turno,Linha A,Setup / Troca de produto,Planejada,39.0
+2026-07-16,3º Turno,Linha A,Ajuste de processo,Não planejada,10.8
+2026-07-16,3º Turno,Linha A,Falta de material,Não planejada,5.7
+2026-07-16,3º Turno,Linha B,Falta de material,Não planejada,2.0
+2026-07-16,3º Turno,Linha C,Aguardando qualidade,Não planejada,7.5
+2026-07-16,3º Turno,Linha C,Aguardando qualidade,Não planejada,8.5
+2026-07-16,3º Turno,Linha C,Aguardando qualidade,Não planejada,11.5
+2026-07-16,3º Turno,Linha C,Falta de material,Não planejada,22.4
+2026-07-17,1º Turno,Linha A,Ajuste de processo,Não planejada,3.7
+2026-07-17,1º Turno,Linha A,Limpeza / Manutenção,Planejada,26.9
+2026-07-17,1º Turno,Linha B,Setup / Troca de produto,Planejada,16.8
+2026-07-17,1º Turno,Linha B,Ajuste de processo,Não planejada,2.8
+2026-07-17,1º Turno,Linha C,Ajuste de processo,Não planejada,2.0
+2026-07-17,1º Turno,Linha C,Setup / Troca de produto,Planejada,12.2
+2026-07-17,1º Turno,Linha C,Setup / Troca de produto,Planejada,81.4
+2026-07-17,2º Turno,Linha A,Limpeza / Manutenção,Planejada,7.3
+2026-07-17,2º Turno,Linha A,Setup / Troca de produto,Planejada,12.4
+2026-07-17,2º Turno,Linha A,Quebra de máquina,Não planejada,27.2
+2026-07-17,2º Turno,Linha A,Quebra de máquina,Não planejada,24.2
+2026-07-17,2º Turno,Linha A,Setup / Troca de produto,Planejada,69.4
+2026-07-17,2º Turno,Linha A,Ajuste de processo,Não planejada,2.0
+2026-07-17,2º Turno,Linha B,Falta de material,Não planejada,11.9
+2026-07-17,2º Turno,Linha B,Quebra de máquina,Não planejada,14.5
+2026-07-17,2º Turno,Linha B,Ajuste de processo,Não planejada,14.8
+2026-07-17,2º Turno,Linha C,Quebra de máquina,Não planejada,40.1
+2026-07-17,2º Turno,Linha C,Quebra de máquina,Não planejada,62.6
+2026-07-17,2º Turno,Linha C,Falta de material,Não planejada,33.5
+2026-07-17,2º Turno,Linha C,Falta de material,Não planejada,46.6
+2026-07-17,2º Turno,Linha C,Setup / Troca de produto,Planejada,26.3
+2026-07-17,3º Turno,Linha A,Quebra de máquina,Não planejada,2.0
+2026-07-17,3º Turno,Linha A,Falta de material,Não planejada,35.9
+2026-07-17,3º Turno,Linha A,Quebra de máquina,Não planejada,21.1
+2026-07-17,3º Turno,Linha A,Setup / Troca de produto,Planejada,15.9
+2026-07-17,3º Turno,Linha A,Ajuste de processo,Não planejada,12.5
+2026-07-17,3º Turno,Linha A,Quebra de máquina,Não planejada,97.4
+2026-07-17,3º Turno,Linha B,Setup / Troca de produto,Planejada,7.5
+2026-07-17,3º Turno,Linha B,Setup / Troca de produto,Planejada,30.6
+2026-07-17,3º Turno,Linha B,Aguardando qualidade,Não planejada,2.0
+2026-07-17,3º Turno,Linha C,Falta de material,Não planejada,13.1
+2026-07-17,3º Turno,Linha C,Setup / Troca de produto,Planejada,34.3
+2026-07-18,1º Turno,Linha A,Setup / Troca de produto,Planejada,14.4
+2026-07-18,1º Turno,Linha B,Setup / Troca de produto,Planejada,8.1
+2026-07-18,1º Turno,Linha B,Aguardando qualidade,Não planejada,14.4
+2026-07-18,1º Turno,Linha C,Aguardando qualidade,Não planejada,10.1
+2026-07-18,1º Turno,Linha C,Ajuste de processo,Não planejada,17.2
+2026-07-18,1º Turno,Linha C,Ajuste de processo,Não planejada,25.2
+2026-07-18,1º Turno,Linha C,Setup / Troca de produto,Planejada,27.4
+2026-07-18,1º Turno,Linha C,Setup / Troca de produto,Planejada,44.0
+2026-07-18,1º Turno,Linha C,Quebra de máquina,Não planejada,23.7
+2026-07-18,1º Turno,Linha C,Quebra de máquina,Não planejada,34.3
+2026-07-18,2º Turno,Linha A,Setup / Troca de produto,Planejada,90.2
+2026-07-18,2º Turno,Linha A,Quebra de máquina,Não planejada,60.6
+2026-07-18,2º Turno,Linha B,Setup / Troca de produto,Planejada,29.6
+2026-07-18,2º Turno,Linha B,Quebra de máquina,Não planejada,22.3
+2026-07-18,2º Turno,Linha B,Falta de material,Não planejada,8.1
+2026-07-18,3º Turno,Linha A,Quebra de máquina,Não planejada,14.4
+2026-07-18,3º Turno,Linha A,Quebra de máquina,Não planejada,18.9
+2026-07-18,3º Turno,Linha A,Aguardando qualidade,Não planejada,12.7
+2026-07-18,3º Turno,Linha A,Falta de material,Não planejada,23.2
+2026-07-18,3º Turno,Linha B,Quebra de máquina,Não planejada,9.4
+2026-07-18,3º Turno,Linha B,Quebra de máquina,Não planejada,41.4
+2026-07-18,3º Turno,Linha B,Setup / Troca de produto,Planejada,17.2
+2026-07-18,3º Turno,Linha C,Quebra de máquina,Não planejada,43.4
+2026-07-18,3º Turno,Linha C,Setup / Troca de produto,Planejada,9.5
+2026-07-18,3º Turno,Linha C,Quebra de máquina,Não planejada,4.1
+2026-07-18,3º Turno,Linha C,Falta de material,Não planejada,12.6
+2026-07-19,1º Turno,Linha A,Setup / Troca de produto,Planejada,16.3
+2026-07-19,1º Turno,Linha A,Aguardando qualidade,Não planejada,19.8
+2026-07-19,1º Turno,Linha A,Falta de material,Não planejada,15.2
+2026-07-19,1º Turno,Linha A,Falta de material,Não planejada,8.7
+2026-07-19,1º Turno,Linha A,Falta de material,Não planejada,7.7
+2026-07-19,1º Turno,Linha C,Quebra de máquina,Não planejada,81.5
+2026-07-19,1º Turno,Linha C,Setup / Troca de produto,Planejada,22.6
+2026-07-19,1º Turno,Linha C,Setup / Troca de produto,Planejada,18.2
+2026-07-19,2º Turno,Linha A,Setup / Troca de produto,Planejada,4.8
+2026-07-19,2º Turno,Linha B,Quebra de máquina,Não planejada,37.3
+2026-07-19,2º Turno,Linha B,Falta de material,Não planejada,22.4
+2026-07-19,2º Turno,Linha B,Setup / Troca de produto,Planejada,25.9
+2026-07-19,2º Turno,Linha B,Quebra de máquina,Não planejada,50.9
+2026-07-19,2º Turno,Linha C,Setup / Troca de produto,Planejada,36.7
+2026-07-19,3º Turno,Linha A,Falta de material,Não planejada,2.0
+2026-07-19,3º Turno,Linha B,Limpeza / Manutenção,Planejada,50.1
+2026-07-19,3º Turno,Linha B,Setup / Troca de produto,Planejada,32.4
+2026-07-19,3º Turno,Linha C,Limpeza / Manutenção,Planejada,6.6
+2026-07-20,1º Turno,Linha A,Ajuste de processo,Não planejada,33.7
+2026-07-20,1º Turno,Linha A,Aguardando qualidade,Não planejada,10.1
+2026-07-20,1º Turno,Linha A,Setup / Troca de produto,Planejada,57.8
+2026-07-20,1º Turno,Linha B,Falta de material,Não planejada,20.4
+2026-07-20,1º Turno,Linha B,Quebra de máquina,Não planejada,29.4
+2026-07-20,1º Turno,Linha C,Ajuste de processo,Não planejada,4.5
+2026-07-20,2º Turno,Linha C,Falta de material,Não planejada,6.3
+2026-07-20,2º Turno,Linha C,Setup / Troca de produto,Planejada,62.4
+2026-07-20,2º Turno,Linha C,Falta de material,Não planejada,23.4
+2026-07-20,3º Turno,Linha A,Quebra de máquina,Não planejada,81.0
+2026-07-20,3º Turno,Linha A,Aguardando qualidade,Não planejada,6.3
+2026-07-20,3º Turno,Linha B,Aguardando qualidade,Não planejada,3.1
+2026-07-20,3º Turno,Linha B,Ajuste de processo,Não planejada,28.1
+2026-07-20,3º Turno,Linha C,Ajuste de processo,Não planejada,6.0
+2026-07-20,3º Turno,Linha C,Ajuste de processo,Não planejada,21.5
+2026-07-20,3º Turno,Linha C,Aguardando qualidade,Não planejada,13.8
+2026-07-20,3º Turno,Linha C,Falta de material,Não planejada,6.9
+2026-07-20,3º Turno,Linha C,Setup / Troca de produto,Planejada,20.2
+2026-07-20,3º Turno,Linha C,Falta de material,Não planejada,10.4
+2026-07-21,1º Turno,Linha A,Quebra de máquina,Não planejada,21.9
+2026-07-21,1º Turno,Linha A,Ajuste de processo,Não planejada,4.5
+2026-07-21,1º Turno,Linha A,Setup / Troca de produto,Planejada,5.8
+2026-07-21,1º Turno,Linha B,Falta de material,Não planejada,41.2
+2026-07-21,1º Turno,Linha B,Setup / Troca de produto,Planejada,50.4
+2026-07-21,1º Turno,Linha B,Aguardando qualidade,Não planejada,8.2
+2026-07-21,1º Turno,Linha C,Falta de material,Não planejada,6.2
+2026-07-21,1º Turno,Linha C,Setup / Troca de produto,Planejada,21.1
+2026-07-21,1º Turno,Linha C,Falta de material,Não planejada,6.3
+2026-07-21,1º Turno,Linha C,Limpeza / Manutenção,Planejada,58.5
+2026-07-21,2º Turno,Linha A,Aguardando qualidade,Não planejada,4.1
+2026-07-21,2º Turno,Linha A,Falta de material,Não planejada,29.8
+2026-07-21,2º Turno,Linha B,Setup / Troca de produto,Planejada,12.8
+2026-07-21,2º Turno,Linha B,Setup / Troca de produto,Planejada,56.3
+2026-07-21,2º Turno,Linha C,Falta de material,Não planejada,17.6
+2026-07-21,2º Turno,Linha C,Setup / Troca de produto,Planejada,74.0
+2026-07-21,2º Turno,Linha C,Ajuste de processo,Não planejada,9.7
+2026-07-21,2º Turno,Linha C,Falta de material,Não planejada,16.3
+2026-07-21,3º Turno,Linha A,Falta de material,Não planejada,58.1
+2026-07-21,3º Turno,Linha A,Aguardando qualidade,Não planejada,5.3
+2026-07-21,3º Turno,Linha A,Setup / Troca de produto,Planejada,28.1
+2026-07-21,3º Turno,Linha B,Setup / Troca de produto,Planejada,27.5
+2026-07-21,3º Turno,Linha B,Setup / Troca de produto,Planejada,14.3
+2026-07-21,3º Turno,Linha B,Limpeza / Manutenção,Planejada,18.7
+2026-07-21,3º Turno,Linha B,Ajuste de processo,Não planejada,31.1
+2026-07-21,3º Turno,Linha B,Aguardando qualidade,Não planejada,7.0
+2026-07-22,1º Turno,Linha A,Quebra de máquina,Não planejada,35.1
+2026-07-22,1º Turno,Linha B,Quebra de máquina,Não planejada,45.9
+2026-07-22,1º Turno,Linha C,Setup / Troca de produto,Planejada,82.2
+2026-07-22,1º Turno,Linha C,Ajuste de processo,Não planejada,2.0
+2026-07-22,2º Turno,Linha A,Limpeza / Manutenção,Planejada,33.2
+2026-07-22,2º Turno,Linha A,Limpeza / Manutenção,Planejada,30.3
+2026-07-22,2º Turno,Linha A,Aguardando qualidade,Não planejada,3.6
+2026-07-22,2º Turno,Linha B,Setup / Troca de produto,Planejada,61.4
+2026-07-22,2º Turno,Linha C,Limpeza / Manutenção,Planejada,5.1
+2026-07-22,2º Turno,Linha C,Ajuste de processo,Não planejada,12.9
+2026-07-22,3º Turno,Linha A,Aguardando qualidade,Não planejada,10.3
+2026-07-22,3º Turno,Linha A,Setup / Troca de produto,Planejada,14.8
+2026-07-22,3º Turno,Linha A,Quebra de máquina,Não planejada,34.0
+2026-07-22,3º Turno,Linha A,Falta de material,Não planejada,6.2
+2026-07-22,3º Turno,Linha A,Setup / Troca de produto,Planejada,6.6
+2026-07-22,3º Turno,Linha A,Falta de material,Não planejada,9.0
+2026-07-22,3º Turno,Linha A,Falta de material,Não planejada,8.4
+2026-07-22,3º Turno,Linha A,Falta de material,Não planejada,7.7
+2026-07-22,3º Turno,Linha B,Ajuste de processo,Não planejada,26.2
+2026-07-22,3º Turno,Linha B,Quebra de máquina,Não planejada,31.3
+2026-07-22,3º Turno,Linha B,Quebra de máquina,Não planejada,29.3
+2026-07-22,3º Turno,Linha C,Limpeza / Manutenção,Planejada,5.3
+2026-07-22,3º Turno,Linha C,Limpeza / Manutenção,Planejada,36.1
+2026-07-22,3º Turno,Linha C,Falta de material,Não planejada,63.5
+2026-07-22,3º Turno,Linha C,Setup / Troca de produto,Planejada,26.4
+2026-07-23,1º Turno,Linha A,Falta de material,Não planejada,13.0
+2026-07-23,1º Turno,Linha B,Setup / Troca de produto,Planejada,16.8
+2026-07-23,1º Turno,Linha B,Setup / Troca de produto,Planejada,13.4
+2026-07-23,1º Turno,Linha C,Falta de material,Não planejada,41.5
+2026-07-23,2º Turno,Linha A,Ajuste de processo,Não planejada,2.3
+2026-07-23,2º Turno,Linha A,Falta de material,Não planejada,12.4
+2026-07-23,2º Turno,Linha C,Quebra de máquina,Não planejada,52.4
+2026-07-23,2º Turno,Linha C,Quebra de máquina,Não planejada,25.4
+2026-07-23,2º Turno,Linha C,Aguardando qualidade,Não planejada,10.4
+2026-07-23,2º Turno,Linha C,Limpeza / Manutenção,Planejada,20.7
+2026-07-23,2º Turno,Linha C,Quebra de máquina,Não planejada,26.1
+2026-07-23,2º Turno,Linha C,Quebra de máquina,Não planejada,33.0
+2026-07-23,3º Turno,Linha A,Falta de material,Não planejada,6.8
+2026-07-23,3º Turno,Linha A,Limpeza / Manutenção,Planejada,3.8
+2026-07-23,3º Turno,Linha A,Aguardando qualidade,Não planejada,25.2
+2026-07-23,3º Turno,Linha B,Falta de material,Não planejada,7.3
+2026-07-23,3º Turno,Linha B,Quebra de máquina,Não planejada,64.0
+2026-07-23,3º Turno,Linha B,Setup / Troca de produto,Planejada,20.4
+2026-07-23,3º Turno,Linha B,Ajuste de processo,Não planejada,13.3
+2026-07-23,3º Turno,Linha C,Setup / Troca de produto,Planejada,12.9
+2026-07-23,3º Turno,Linha C,Ajuste de processo,Não planejada,18.6
+2026-07-23,3º Turno,Linha C,Limpeza / Manutenção,Planejada,2.0
+2026-07-23,3º Turno,Linha C,Falta de material,Não planejada,25.8
+2026-07-24,1º Turno,Linha A,Setup / Troca de produto,Planejada,15.9
+2026-07-24,1º Turno,Linha A,Quebra de máquina,Não planejada,78.1
+2026-07-24,1º Turno,Linha C,Ajuste de processo,Não planejada,5.1
+2026-07-24,1º Turno,Linha C,Quebra de máquina,Não planejada,47.2
+2026-07-24,1º Turno,Linha C,Falta de material,Não planejada,22.7
+2026-07-24,2º Turno,Linha A,Falta de material,Não planejada,2.0
+2026-07-24,2º Turno,Linha A,Setup / Troca de produto,Planejada,14.5
+2026-07-24,2º Turno,Linha A,Quebra de máquina,Não planejada,20.7
+2026-07-24,2º Turno,Linha C,Aguardando qualidade,Não planejada,3.3
+2026-07-24,2º Turno,Linha C,Setup / Troca de produto,Planejada,75.0
+2026-07-24,3º Turno,Linha A,Falta de material,Não planejada,21.5
+2026-07-24,3º Turno,Linha A,Aguardando qualidade,Não planejada,9.9
+2026-07-24,3º Turno,Linha B,Ajuste de processo,Não planejada,6.2
+2026-07-24,3º Turno,Linha B,Ajuste de processo,Não planejada,19.6
+2026-07-24,3º Turno,Linha B,Setup / Troca de produto,Planejada,57.8
+2026-07-25,1º Turno,Linha B,Setup / Troca de produto,Planejada,63.3
+2026-07-25,1º Turno,Linha B,Ajuste de processo,Não planejada,2.0
+2026-07-25,1º Turno,Linha B,Setup / Troca de produto,Planejada,3.1
+2026-07-25,1º Turno,Linha C,Quebra de máquina,Não planejada,54.4
+2026-07-25,1º Turno,Linha C,Aguardando qualidade,Não planejada,8.3
+2026-07-25,2º Turno,Linha A,Setup / Troca de produto,Planejada,13.3
+2026-07-25,2º Turno,Linha A,Setup / Troca de produto,Planejada,45.9
+2026-07-25,2º Turno,Linha A,Falta de material,Não planejada,26.5
+2026-07-25,2º Turno,Linha B,Aguardando qualidade,Não planejada,8.5
+2026-07-25,2º Turno,Linha B,Ajuste de processo,Não planejada,6.7
+2026-07-25,2º Turno,Linha C,Falta de material,Não planejada,47.9
+2026-07-25,3º Turno,Linha A,Falta de material,Não planejada,18.5
+2026-07-25,3º Turno,Linha A,Ajuste de processo,Não planejada,5.3
+2026-07-25,3º Turno,Linha A,Setup / Troca de produto,Planejada,48.1
+2026-07-25,3º Turno,Linha A,Setup / Troca de produto,Planejada,3.8
+2026-07-25,3º Turno,Linha B,Ajuste de processo,Não planejada,7.9
+2026-07-25,3º Turno,Linha C,Quebra de máquina,Não planejada,23.0
+2026-07-25,3º Turno,Linha C,Falta de material,Não planejada,6.0
+2026-07-25,3º Turno,Linha C,Setup / Troca de produto,Planejada,26.8
+2026-07-26,1º Turno,Linha A,Quebra de máquina,Não planejada,16.3
+2026-07-26,1º Turno,Linha B,Ajuste de processo,Não planejada,2.8
+2026-07-26,1º Turno,Linha B,Falta de material,Não planejada,9.0
+2026-07-26,1º Turno,Linha B,Limpeza / Manutenção,Planejada,34.2
+2026-07-26,1º Turno,Linha B,Ajuste de processo,Não planejada,2.9
+2026-07-26,1º Turno,Linha C,Falta de material,Não planejada,23.7
+2026-07-26,2º Turno,Linha A,Ajuste de processo,Não planejada,17.8
+2026-07-26,2º Turno,Linha A,Aguardando qualidade,Não planejada,13.6
+2026-07-26,2º Turno,Linha B,Setup / Troca de produto,Planejada,97.2
+2026-07-26,2º Turno,Linha B,Ajuste de processo,Não planejada,10.9
+2026-07-26,2º Turno,Linha B,Setup / Troca de produto,Planejada,13.7
+2026-07-26,2º Turno,Linha C,Setup / Troca de produto,Planejada,20.4
+2026-07-26,2º Turno,Linha C,Setup / Troca de produto,Planejada,39.3
+2026-07-26,3º Turno,Linha A,Aguardando qualidade,Não planejada,9.3
+2026-07-26,3º Turno,Linha A,Ajuste de processo,Não planejada,9.5
+2026-07-26,3º Turno,Linha A,Falta de material,Não planejada,6.9
+2026-07-26,3º Turno,Linha A,Quebra de máquina,Não planejada,21.5
+2026-07-26,3º Turno,Linha B,Falta de material,Não planejada,14.1
+2026-07-26,3º Turno,Linha B,Aguardando qualidade,Não planejada,5.8
+2026-07-26,3º Turno,Linha C,Ajuste de processo,Não planejada,10.0
+2026-07-26,3º Turno,Linha C,Setup / Troca de produto,Planejada,84.6
+2026-07-26,3º Turno,Linha C,Limpeza / Manutenção,Planejada,14.6
+2026-07-27,1º Turno,Linha A,Falta de material,Não planejada,4.6
+2026-07-27,1º Turno,Linha C,Ajuste de processo,Não planejada,23.0
+2026-07-27,1º Turno,Linha C,Setup / Troca de produto,Planejada,11.8
+2026-07-27,1º Turno,Linha C,Falta de material,Não planejada,36.3
+2026-07-27,2º Turno,Linha A,Limpeza / Manutenção,Planejada,25.7
+2026-07-27,2º Turno,Linha B,Setup / Troca de produto,Planejada,52.9
+2026-07-27,2º Turno,Linha B,Limpeza / Manutenção,Planejada,15.5
+2026-07-27,2º Turno,Linha C,Falta de material,Não planejada,22.3
+2026-07-27,2º Turno,Linha C,Aguardando qualidade,Não planejada,8.1
+2026-07-27,2º Turno,Linha C,Aguardando qualidade,Não planejada,11.0
+2026-07-27,3º Turno,Linha A,Setup / Troca de produto,Planejada,54.5
+2026-07-27,3º Turno,Linha B,Setup / Troca de produto,Planejada,28.3
+2026-07-27,3º Turno,Linha B,Quebra de máquina,Não planejada,52.4
+2026-07-27,3º Turno,Linha C,Quebra de máquina,Não planejada,140.7
+2026-07-27,3º Turno,Linha C,Setup / Troca de produto,Planejada,12.9
+2026-07-27,3º Turno,Linha C,Aguardando qualidade,Não planejada,12.5
+2026-07-27,3º Turno,Linha C,Quebra de máquina,Não planejada,37.6
+2026-07-28,1º Turno,Linha A,Quebra de máquina,Não planejada,57.3
+2026-07-28,1º Turno,Linha B,Setup / Troca de produto,Planejada,9.7
+2026-07-28,1º Turno,Linha B,Quebra de máquina,Não planejada,43.9
+2026-07-28,2º Turno,Linha A,Ajuste de processo,Não planejada,3.4
+2026-07-28,2º Turno,Linha B,Quebra de máquina,Não planejada,40.0
+2026-07-28,2º Turno,Linha B,Setup / Troca de produto,Planejada,29.6
+2026-07-28,2º Turno,Linha B,Setup / Troca de produto,Planejada,24.1
+2026-07-28,2º Turno,Linha B,Quebra de máquina,Não planejada,11.6
+2026-07-28,2º Turno,Linha B,Quebra de máquina,Não planejada,8.4
+2026-07-28,2º Turno,Linha C,Aguardando qualidade,Não planejada,3.7
+2026-07-28,2º Turno,Linha C,Aguardando qualidade,Não planejada,2.4
+2026-07-28,2º Turno,Linha C,Setup / Troca de produto,Planejada,16.1
+2026-07-28,2º Turno,Linha C,Setup / Troca de produto,Planejada,42.8
+2026-07-28,3º Turno,Linha A,Ajuste de processo,Não planejada,21.3
+2026-07-28,3º Turno,Linha B,Falta de material,Não planejada,3.9
+2026-07-28,3º Turno,Linha B,Quebra de máquina,Não planejada,37.6
+2026-07-28,3º Turno,Linha B,Quebra de máquina,Não planejada,13.5
+2026-07-28,3º Turno,Linha B,Limpeza / Manutenção,Planejada,4.6
+2026-07-28,3º Turno,Linha B,Quebra de máquina,Não planejada,19.4
+2026-07-28,3º Turno,Linha B,Setup / Troca de produto,Planejada,22.6
+2026-07-28,3º Turno,Linha C,Setup / Troca de produto,Planejada,8.3
+2026-07-28,3º Turno,Linha C,Falta de material,Não planejada,7.7
+2026-07-29,1º Turno,Linha A,Falta de material,Não planejada,4.1
+2026-07-29,1º Turno,Linha A,Quebra de máquina,Não planejada,11.6
+2026-07-29,1º Turno,Linha B,Limpeza / Manutenção,Planejada,17.3
+2026-07-29,1º Turno,Linha C,Aguardando qualidade,Não planejada,11.9
+2026-07-29,1º Turno,Linha C,Ajuste de processo,Não planejada,6.9
+2026-07-29,1º Turno,Linha C,Quebra de máquina,Não planejada,25.4
+2026-07-29,1º Turno,Linha C,Ajuste de processo,Não planejada,18.3
+2026-07-29,2º Turno,Linha B,Limpeza / Manutenção,Planejada,15.5
+2026-07-29,2º Turno,Linha C,Setup / Troca de produto,Planejada,16.9
+2026-07-29,2º Turno,Linha C,Falta de material,Não planejada,12.3
+2026-07-29,3º Turno,Linha A,Limpeza / Manutenção,Planejada,21.7
+2026-07-29,3º Turno,Linha B,Limpeza / Manutenção,Planejada,17.0
+2026-07-29,3º Turno,Linha B,Falta de material,Não planejada,11.3
+2026-07-29,3º Turno,Linha C,Falta de material,Não planejada,17.6
+2026-07-29,3º Turno,Linha C,Setup / Troca de produto,Planejada,7.0
+2026-07-30,1º Turno,Linha A,Setup / Troca de produto,Planejada,14.0
+2026-07-30,1º Turno,Linha A,Ajuste de processo,Não planejada,4.2
+2026-07-30,1º Turno,Linha A,Setup / Troca de produto,Planejada,29.7
+2026-07-30,1º Turno,Linha A,Ajuste de processo,Não planejada,9.4
+2026-07-30,1º Turno,Linha B,Aguardando qualidade,Não planejada,4.2
+2026-07-30,1º Turno,Linha B,Falta de material,Não planejada,23.1
+2026-07-30,1º Turno,Linha C,Ajuste de processo,Não planejada,29.3
+2026-07-30,1º Turno,Linha C,Falta de material,Não planejada,3.3
+2026-07-30,1º Turno,Linha C,Limpeza / Manutenção,Planejada,2.0
+2026-07-30,1º Turno,Linha C,Limpeza / Manutenção,Planejada,4.6
+2026-07-30,1º Turno,Linha C,Quebra de máquina,Não planejada,56.1
+2026-07-30,1º Turno,Linha C,Falta de material,Não planejada,15.1
+2026-07-30,2º Turno,Linha A,Aguardando qualidade,Não planejada,14.6
+2026-07-30,2º Turno,Linha A,Aguardando qualidade,Não planejada,6.3
+2026-07-30,2º Turno,Linha A,Falta de material,Não planejada,22.0
+2026-07-30,2º Turno,Linha B,Quebra de máquina,Não planejada,30.6
+2026-07-30,2º Turno,Linha C,Setup / Troca de produto,Planejada,4.8
+2026-07-30,2º Turno,Linha C,Ajuste de processo,Não planejada,16.7
+2026-07-30,3º Turno,Linha A,Quebra de máquina,Não planejada,7.8
+2026-07-30,3º Turno,Linha A,Aguardando qualidade,Não planejada,20.6
+2026-07-30,3º Turno,Linha A,Limpeza / Manutenção,Planejada,23.9
+2026-07-30,3º Turno,Linha A,Falta de material,Não planejada,31.7
+2026-07-30,3º Turno,Linha B,Aguardando qualidade,Não planejada,20.0
+2026-07-30,3º Turno,Linha B,Falta de material,Não planejada,25.2
+2026-07-30,3º Turno,Linha B,Ajuste de processo,Não planejada,8.3
+2026-07-30,3º Turno,Linha B,Quebra de máquina,Não planejada,23.2
+2026-07-30,3º Turno,Linha B,Limpeza / Manutenção,Planejada,12.1
+2026-07-30,3º Turno,Linha C,Ajuste de processo,Não planejada,13.9
+2026-07-30,3º Turno,Linha C,Quebra de máquina,Não planejada,42.3
+2026-07-30,3º Turno,Linha C,Setup / Troca de produto,Planejada,48.7
+2026-07-30,3º Turno,Linha C,Limpeza / Manutenção,Planejada,16.3
+2026-07-30,3º Turno,Linha C,Quebra de máquina,Não planejada,27.8
+2026-07-30,3º Turno,Linha C,Setup / Troca de produto,Planejada,12.5
+2026-07-31,1º Turno,Linha A,Ajuste de processo,Não planejada,2.9
+2026-07-31,1º Turno,Linha B,Quebra de máquina,Não planejada,8.2
+2026-07-31,1º Turno,Linha B,Quebra de máquina,Não planejada,53.3
+2026-07-31,1º Turno,Linha C,Setup / Troca de produto,Planejada,47.9
+2026-07-31,1º Turno,Linha C,Quebra de máquina,Não planejada,15.4
+2026-07-31,1º Turno,Linha C,Limpeza / Manutenção,Planejada,2.2
+2026-07-31,2º Turno,Linha C,Limpeza / Manutenção,Planejada,20.8
+2026-07-31,3º Turno,Linha A,Setup / Troca de produto,Planejada,22.0
+2026-07-31,3º Turno,Linha B,Setup / Troca de produto,Planejada,22.2
+2026-07-31,3º Turno,Linha B,Quebra de máquina,Não planejada,11.6
+2026-07-31,3º Turno,Linha B,Quebra de máquina,Não planejada,18.5
+2026-07-31,3º Turno,Linha B,Quebra de máquina,Não planejada,91.7
+2026-07-31,3º Turno,Linha C,Setup / Troca de produto,Planejada,45.6
+2026-07-31,3º Turno,Linha C,Aguardando qualidade,Não planejada,21.7
+2026-08-01,1º Turno,Linha B,Setup / Troca de produto,Planejada,3.3
+2026-08-01,1º Turno,Linha B,Ajuste de processo,Não planejada,5.5
+2026-08-01,1º Turno,Linha C,Limpeza / Manutenção,Planejada,27.9
+2026-08-01,1º Turno,Linha C,Falta de material,Não planejada,13.1
+2026-08-01,1º Turno,Linha C,Quebra de máquina,Não planejada,71.0
+2026-08-01,1º Turno,Linha C,Aguardando qualidade,Não planejada,2.0
+2026-08-01,1º Turno,Linha C,Ajuste de processo,Não planejada,5.8
+2026-08-01,1º Turno,Linha C,Falta de material,Não planejada,38.4
+2026-08-01,1º Turno,Linha C,Aguardando qualidade,Não planejada,8.7
+2026-08-01,1º Turno,Linha C,Ajuste de processo,Não planejada,18.2
+2026-08-01,2º Turno,Linha A,Ajuste de processo,Não planejada,10.0
+2026-08-01,2º Turno,Linha C,Quebra de máquina,Não planejada,42.8
+2026-08-01,2º Turno,Linha C,Aguardando qualidade,Não planejada,2.3
+2026-08-01,2º Turno,Linha C,Setup / Troca de produto,Planejada,36.2
+2026-08-01,3º Turno,Linha A,Ajuste de processo,Não planejada,2.0
+2026-08-01,3º Turno,Linha A,Limpeza / Manutenção,Planejada,6.3
+2026-08-01,3º Turno,Linha A,Falta de material,Não planejada,5.7
+2026-08-01,3º Turno,Linha A,Setup / Troca de produto,Planejada,10.6
+2026-08-01,3º Turno,Linha A,Setup / Troca de produto,Planejada,34.1
+2026-08-01,3º Turno,Linha A,Setup / Troca de produto,Planejada,35.9
+2026-08-01,3º Turno,Linha A,Falta de material,Não planejada,21.2
+2026-08-01,3º Turno,Linha A,Quebra de máquina,Não planejada,31.0
+2026-08-01,3º Turno,Linha A,Quebra de máquina,Não planejada,50.2
+2026-08-01,3º Turno,Linha B,Falta de material,Não planejada,17.8
+2026-08-01,3º Turno,Linha B,Quebra de máquina,Não planejada,35.1
+2026-08-01,3º Turno,Linha B,Ajuste de processo,Não planejada,52.2
+2026-08-01,3º Turno,Linha B,Falta de material,Não planejada,10.4
+2026-08-01,3º Turno,Linha C,Falta de material,Não planejada,11.1
+2026-08-01,3º Turno,Linha C,Quebra de máquina,Não planejada,15.6
+2026-08-01,3º Turno,Linha C,Setup / Troca de produto,Planejada,13.7
+2026-08-01,3º Turno,Linha C,Ajuste de processo,Não planejada,8.3
+2026-08-02,1º Turno,Linha A,Quebra de máquina,Não planejada,36.6
+2026-08-02,1º Turno,Linha A,Quebra de máquina,Não planejada,64.4
+2026-08-02,1º Turno,Linha B,Falta de material,Não planejada,20.4
+2026-08-02,1º Turno,Linha C,Falta de material,Não planejada,19.8
+2026-08-02,1º Turno,Linha C,Setup / Troca de produto,Planejada,57.3
+2026-08-02,2º Turno,Linha B,Aguardando qualidade,Não planejada,13.0
+2026-08-02,2º Turno,Linha B,Limpeza / Manutenção,Planejada,22.5
+2026-08-02,2º Turno,Linha B,Setup / Troca de produto,Planejada,12.2
+2026-08-02,2º Turno,Linha B,Falta de material,Não planejada,29.6
+2026-08-02,2º Turno,Linha C,Setup / Troca de produto,Planejada,18.2
+2026-08-02,3º Turno,Linha A,Quebra de máquina,Não planejada,22.3
+2026-08-02,3º Turno,Linha A,Falta de material,Não planejada,17.8
+2026-08-02,3º Turno,Linha A,Setup / Troca de produto,Planejada,9.9
+2026-08-02,3º Turno,Linha A,Aguardando qualidade,Não planejada,4.3
+2026-08-02,3º Turno,Linha A,Falta de material,Não planejada,22.8
+2026-08-02,3º Turno,Linha A,Aguardando qualidade,Não planejada,7.3
+2026-08-02,3º Turno,Linha A,Falta de material,Não planejada,18.7
+2026-08-02,3º Turno,Linha B,Setup / Troca de produto,Planejada,35.7
+2026-08-02,3º Turno,Linha B,Falta de material,Não planejada,11.3
+2026-08-02,3º Turno,Linha C,Falta de material,Não planejada,5.5
+2026-08-02,3º Turno,Linha C,Setup / Troca de produto,Planejada,29.5
+2026-08-02,3º Turno,Linha C,Setup / Troca de produto,Planejada,9.3
+2026-08-02,3º Turno,Linha C,Quebra de máquina,Não planejada,8.8
+2026-08-02,3º Turno,Linha C,Setup / Troca de produto,Planejada,8.4
+2026-08-02,3º Turno,Linha C,Aguardando qualidade,Não planejada,10.4
+2026-08-03,1º Turno,Linha A,Setup / Troca de produto,Planejada,9.7
+2026-08-03,1º Turno,Linha B,Setup / Troca de produto,Planejada,36.6
+2026-08-03,1º Turno,Linha B,Aguardando qualidade,Não planejada,10.6
+2026-08-03,2º Turno,Linha A,Ajuste de processo,Não planejada,2.3
+2026-08-03,2º Turno,Linha B,Setup / Troca de produto,Planejada,18.1
+2026-08-03,2º Turno,Linha C,Falta de material,Não planejada,24.1
+2026-08-03,3º Turno,Linha A,Quebra de máquina,Não planejada,49.8
+2026-08-03,3º Turno,Linha A,Aguardando qualidade,Não planejada,11.2
+2026-08-03,3º Turno,Linha B,Quebra de máquina,Não planejada,48.1
+2026-08-03,3º Turno,Linha B,Quebra de máquina,Não planejada,69.8
+2026-08-03,3º Turno,Linha B,Ajuste de processo,Não planejada,9.7
+2026-08-03,3º Turno,Linha B,Falta de material,Não planejada,14.2
+2026-08-03,3º Turno,Linha C,Aguardando qualidade,Não planejada,6.9
+2026-08-03,3º Turno,Linha C,Aguardando qualidade,Não planejada,3.2
+2026-08-03,3º Turno,Linha C,Falta de material,Não planejada,3.2
+2026-08-03,3º Turno,Linha C,Quebra de máquina,Não planejada,86.9
+2026-08-03,3º Turno,Linha C,Setup / Troca de produto,Planejada,29.5
+2026-08-03,3º Turno,Linha C,Quebra de máquina,Não planejada,50.4
+2026-08-04,1º Turno,Linha A,Falta de material,Não planejada,5.4
+2026-08-04,1º Turno,Linha B,Setup / Troca de produto,Planejada,46.8
+2026-08-04,1º Turno,Linha B,Limpeza / Manutenção,Planejada,3.9
+2026-08-04,1º Turno,Linha B,Quebra de máquina,Não planejada,35.8
+2026-08-04,1º Turno,Linha B,Ajuste de processo,Não planejada,7.8
+2026-08-04,1º Turno,Linha C,Ajuste de processo,Não planejada,30.2
+2026-08-04,1º Turno,Linha C,Falta de material,Não planejada,40.2
+2026-08-04,2º Turno,Linha A,Falta de material,Não planejada,8.7
+2026-08-04,2º Turno,Linha A,Limpeza / Manutenção,Planejada,14.5
+2026-08-04,2º Turno,Linha A,Setup / Troca de produto,Planejada,35.6
+2026-08-04,2º Turno,Linha A,Ajuste de processo,Não planejada,11.3
+2026-08-04,2º Turno,Linha B,Falta de material,Não planejada,3.7
+2026-08-04,2º Turno,Linha B,Ajuste de processo,Não planejada,8.8
+2026-08-04,2º Turno,Linha C,Ajuste de processo,Não planejada,15.1
+2026-08-04,2º Turno,Linha C,Setup / Troca de produto,Planejada,17.0
+2026-08-04,3º Turno,Linha B,Quebra de máquina,Não planejada,14.2
+2026-08-04,3º Turno,Linha B,Falta de material,Não planejada,2.0
+2026-08-04,3º Turno,Linha C,Falta de material,Não planejada,27.4
+2026-08-04,3º Turno,Linha C,Limpeza / Manutenção,Planejada,25.3
+2026-08-04,3º Turno,Linha C,Ajuste de processo,Não planejada,2.0
+2026-08-04,3º Turno,Linha C,Limpeza / Manutenção,Planejada,50.0
+2026-08-04,3º Turno,Linha C,Setup / Troca de produto,Planejada,7.8
+2026-08-04,3º Turno,Linha C,Ajuste de processo,Não planejada,14.9
+2026-08-05,1º Turno,Linha A,Setup / Troca de produto,Planejada,17.5
+2026-08-05,1º Turno,Linha A,Setup / Troca de produto,Planejada,54.8
+2026-08-05,1º Turno,Linha C,Falta de material,Não planejada,8.0
+2026-08-05,1º Turno,Linha C,Setup / Troca de produto,Planejada,9.5
+2026-08-05,1º Turno,Linha C,Setup / Troca de produto,Planejada,21.8
+2026-08-05,2º Turno,Linha A,Falta de material,Não planejada,14.2
+2026-08-05,2º Turno,Linha A,Setup / Troca de produto,Planejada,58.3
+2026-08-05,2º Turno,Linha B,Limpeza / Manutenção,Planejada,2.0
+2026-08-05,2º Turno,Linha B,Ajuste de processo,Não planejada,9.1
+2026-08-05,2º Turno,Linha B,Setup / Troca de produto,Planejada,60.7
+2026-08-05,2º Turno,Linha B,Quebra de máquina,Não planejada,16.3
+2026-08-05,3º Turno,Linha A,Falta de material,Não planejada,21.6
+2026-08-05,3º Turno,Linha A,Ajuste de processo,Não planejada,10.6
+2026-08-05,3º Turno,Linha A,Falta de material,Não planejada,7.9
+2026-08-05,3º Turno,Linha A,Setup / Troca de produto,Planejada,31.6
+2026-08-05,3º Turno,Linha A,Limpeza / Manutenção,Planejada,6.3
+2026-08-05,3º Turno,Linha A,Setup / Troca de produto,Planejada,5.9
+2026-08-05,3º Turno,Linha B,Aguardando qualidade,Não planejada,16.6
+2026-08-05,3º Turno,Linha B,Setup / Troca de produto,Planejada,9.5
+2026-08-05,3º Turno,Linha C,Ajuste de processo,Não planejada,37.1
+2026-08-05,3º Turno,Linha C,Setup / Troca de produto,Planejada,23.5
+2026-08-05,3º Turno,Linha C,Quebra de máquina,Não planejada,22.1
+2026-08-05,3º Turno,Linha C,Falta de material,Não planejada,22.4
+2026-08-06,1º Turno,Linha A,Setup / Troca de produto,Planejada,13.0
+2026-08-06,1º Turno,Linha A,Setup / Troca de produto,Planejada,79.3
+2026-08-06,1º Turno,Linha A,Aguardando qualidade,Não planejada,18.3
+2026-08-06,1º Turno,Linha A,Setup / Troca de produto,Planejada,59.1
+2026-08-06,1º Turno,Linha A,Setup / Troca de produto,Planejada,27.2
+2026-08-06,1º Turno,Linha A,Falta de material,Não planejada,23.7
+2026-08-06,1º Turno,Linha B,Setup / Troca de produto,Planejada,18.8
+2026-08-06,1º Turno,Linha B,Limpeza / Manutenção,Planejada,24.6
+2026-08-06,1º Turno,Linha B,Ajuste de processo,Não planejada,26.9
+2026-08-06,1º Turno,Linha B,Ajuste de processo,Não planejada,21.4
+2026-08-06,1º Turno,Linha B,Setup / Troca de produto,Planejada,42.8
+2026-08-06,1º Turno,Linha C,Falta de material,Não planejada,4.5
+2026-08-06,2º Turno,Linha A,Falta de material,Não planejada,11.0
+2026-08-06,2º Turno,Linha A,Falta de material,Não planejada,10.2
+2026-08-06,2º Turno,Linha B,Ajuste de processo,Não planejada,2.1
+2026-08-06,2º Turno,Linha B,Setup / Troca de produto,Planejada,24.7
+2026-08-06,2º Turno,Linha C,Quebra de máquina,Não planejada,61.6
+2026-08-06,3º Turno,Linha A,Ajuste de processo,Não planejada,12.7
+2026-08-06,3º Turno,Linha A,Ajuste de processo,Não planejada,13.2
+2026-08-06,3º Turno,Linha A,Setup / Troca de produto,Planejada,22.4
+2026-08-06,3º Turno,Linha B,Setup / Troca de produto,Planejada,10.2
+2026-08-06,3º Turno,Linha B,Quebra de máquina,Não planejada,41.2
+2026-08-06,3º Turno,Linha B,Quebra de máquina,Não planejada,93.5
+2026-08-06,3º Turno,Linha C,Quebra de máquina,Não planejada,29.8
+2026-08-06,3º Turno,Linha C,Setup / Troca de produto,Planejada,50.0
+2026-08-07,1º Turno,Linha B,Setup / Troca de produto,Planejada,5.6
+2026-08-07,1º Turno,Linha B,Limpeza / Manutenção,Planejada,22.6
+2026-08-07,1º Turno,Linha B,Quebra de máquina,Não planejada,99.4
+2026-08-07,1º Turno,Linha C,Falta de material,Não planejada,25.3
+2026-08-07,1º Turno,Linha C,Ajuste de processo,Não planejada,3.5
+2026-08-07,1º Turno,Linha C,Limpeza / Manutenção,Planejada,2.0
+2026-08-07,1º Turno,Linha C,Falta de material,Não planejada,10.2
+2026-08-07,2º Turno,Linha A,Quebra de máquina,Não planejada,21.4
+2026-08-07,2º Turno,Linha B,Quebra de máquina,Não planejada,11.0
+2026-08-07,3º Turno,Linha A,Quebra de máquina,Não planejada,79.9
+2026-08-07,3º Turno,Linha A,Quebra de máquina,Não planejada,18.7
+2026-08-07,3º Turno,Linha B,Quebra de máquina,Não planejada,15.3
+2026-08-07,3º Turno,Linha C,Falta de material,Não planejada,17.1
+2026-08-07,3º Turno,Linha C,Ajuste de processo,Não planejada,2.3
+2026-08-07,3º Turno,Linha C,Setup / Troca de produto,Planejada,34.3
+2026-08-07,3º Turno,Linha C,Setup / Troca de produto,Planejada,77.6
+2026-08-07,3º Turno,Linha C,Setup / Troca de produto,Planejada,41.5
+2026-08-07,3º Turno,Linha C,Quebra de máquina,Não planejada,37.4
+2026-08-07,3º Turno,Linha C,Quebra de máquina,Não planejada,11.7
+2026-08-08,1º Turno,Linha B,Ajuste de processo,Não planejada,43.9
+2026-08-08,1º Turno,Linha B,Quebra de máquina,Não planejada,18.0
+2026-08-08,1º Turno,Linha B,Ajuste de processo,Não planejada,9.6
+2026-08-08,1º Turno,Linha C,Quebra de máquina,Não planejada,14.3
+2026-08-08,1º Turno,Linha C,Limpeza / Manutenção,Planejada,39.0
+2026-08-08,2º Turno,Linha A,Setup / Troca de produto,Planejada,69.3
+2026-08-08,2º Turno,Linha A,Setup / Troca de produto,Planejada,18.0
+2026-08-08,2º Turno,Linha A,Quebra de máquina,Não planejada,15.5
+2026-08-08,2º Turno,Linha A,Quebra de máquina,Não planejada,7.8
+2026-08-08,2º Turno,Linha A,Aguardando qualidade,Não planejada,10.0
+2026-08-08,2º Turno,Linha A,Quebra de máquina,Não planejada,61.2
+2026-08-08,2º Turno,Linha A,Setup / Troca de produto,Planejada,12.8
+2026-08-08,2º Turno,Linha A,Quebra de máquina,Não planejada,11.8
+2026-08-08,2º Turno,Linha B,Quebra de máquina,Não planejada,31.3
+2026-08-08,2º Turno,Linha C,Falta de material,Não planejada,26.1
+2026-08-08,3º Turno,Linha A,Quebra de máquina,Não planejada,33.6
+2026-08-08,3º Turno,Linha A,Quebra de máquina,Não planejada,54.9
+2026-08-08,3º Turno,Linha C,Falta de material,Não planejada,6.3
+2026-08-08,3º Turno,Linha C,Setup / Troca de produto,Planejada,25.9
+2026-08-08,3º Turno,Linha C,Falta de material,Não planejada,8.4
+2026-08-08,3º Turno,Linha C,Aguardando qualidade,Não planejada,25.9
+2026-08-09,1º Turno,Linha A,Setup / Troca de produto,Planejada,12.4
+2026-08-09,1º Turno,Linha A,Quebra de máquina,Não planejada,42.0
+2026-08-09,1º Turno,Linha A,Setup / Troca de produto,Planejada,26.7
+2026-08-09,1º Turno,Linha B,Falta de material,Não planejada,30.7
+2026-08-09,1º Turno,Linha B,Falta de material,Não planejada,25.7
+2026-08-09,1º Turno,Linha B,Ajuste de processo,Não planejada,11.2
+2026-08-09,1º Turno,Linha C,Setup / Troca de produto,Planejada,42.3
+2026-08-09,1º Turno,Linha C,Quebra de máquina,Não planejada,23.0
+2026-08-09,1º Turno,Linha C,Ajuste de processo,Não planejada,17.1
+2026-08-09,2º Turno,Linha A,Falta de material,Não planejada,15.5
+2026-08-09,2º Turno,Linha B,Quebra de máquina,Não planejada,20.5
+2026-08-09,2º Turno,Linha B,Falta de material,Não planejada,10.6
+2026-08-09,2º Turno,Linha C,Setup / Troca de produto,Planejada,24.6
+2026-08-09,2º Turno,Linha C,Setup / Troca de produto,Planejada,31.1
+2026-08-09,2º Turno,Linha C,Setup / Troca de produto,Planejada,12.9
+2026-08-09,2º Turno,Linha C,Falta de material,Não planejada,3.2
+2026-08-09,3º Turno,Linha A,Aguardando qualidade,Não planejada,5.0
+2026-08-09,3º Turno,Linha A,Falta de material,Não planejada,14.5
+2026-08-09,3º Turno,Linha A,Falta de material,Não planejada,7.8
+2026-08-09,3º Turno,Linha A,Ajuste de processo,Não planejada,4.3
+2026-08-09,3º Turno,Linha B,Quebra de máquina,Não planejada,30.8
+2026-08-09,3º Turno,Linha C,Aguardando qualidade,Não planejada,26.9
+2026-08-09,3º Turno,Linha C,Ajuste de processo,Não planejada,9.2
+2026-08-09,3º Turno,Linha C,Falta de material,Não planejada,16.8
+2026-08-09,3º Turno,Linha C,Aguardando qualidade,Não planejada,11.1
+2026-08-09,3º Turno,Linha C,Setup / Troca de produto,Planejada,8.6
+2026-08-10,1º Turno,Linha A,Falta de material,Não planejada,4.5
+2026-08-10,1º Turno,Linha B,Falta de material,Não planejada,19.6
+2026-08-10,1º Turno,Linha B,Setup / Troca de produto,Planejada,48.8
+2026-08-10,1º Turno,Linha B,Falta de material,Não planejada,10.0
+2026-08-10,1º Turno,Linha C,Quebra de máquina,Não planejada,39.9
+2026-08-10,1º Turno,Linha C,Falta de material,Não planejada,6.9
+2026-08-10,1º Turno,Linha C,Ajuste de processo,Não planejada,18.3
+2026-08-10,2º Turno,Linha A,Limpeza / Manutenção,Planejada,9.4
+2026-08-10,2º Turno,Linha B,Ajuste de processo,Não planejada,8.8
+2026-08-10,2º Turno,Linha C,Aguardando qualidade,Não planejada,14.8
+2026-08-10,2º Turno,Linha C,Setup / Troca de produto,Planejada,21.4
+2026-08-10,3º Turno,Linha A,Setup / Troca de produto,Planejada,42.8
+2026-08-10,3º Turno,Linha A,Quebra de máquina,Não planejada,7.3
+2026-08-10,3º Turno,Linha A,Falta de material,Não planejada,17.0
+2026-08-10,3º Turno,Linha B,Falta de material,Não planejada,33.8
+2026-08-10,3º Turno,Linha B,Limpeza / Manutenção,Planejada,25.8
+2026-08-10,3º Turno,Linha C,Quebra de máquina,Não planejada,48.5
+2026-08-10,3º Turno,Linha C,Setup / Troca de produto,Planejada,22.1
+2026-08-10,3º Turno,Linha C,Ajuste de processo,Não planejada,22.8
+2026-08-11,1º Turno,Linha A,Ajuste de processo,Não planejada,2.0
+2026-08-11,1º Turno,Linha A,Falta de material,Não planejada,13.9
+2026-08-11,1º Turno,Linha A,Quebra de máquina,Não planejada,37.8
+2026-08-11,1º Turno,Linha B,Quebra de máquina,Não planejada,28.8
+2026-08-11,1º Turno,Linha B,Quebra de máquina,Não planejada,8.3
+2026-08-11,1º Turno,Linha C,Falta de material,Não planejada,17.1
+2026-08-11,1º Turno,Linha C,Ajuste de processo,Não planejada,8.9
+2026-08-11,1º Turno,Linha C,Limpeza / Manutenção,Planejada,8.5
+2026-08-11,2º Turno,Linha A,Ajuste de processo,Não planejada,4.9
+2026-08-11,2º Turno,Linha A,Limpeza / Manutenção,Planejada,2.0
+2026-08-11,2º Turno,Linha A,Ajuste de processo,Não planejada,13.5
+2026-08-11,2º Turno,Linha A,Falta de material,Não planejada,3.3
+2026-08-11,2º Turno,Linha A,Setup / Troca de produto,Planejada,42.8
+2026-08-11,2º Turno,Linha B,Quebra de máquina,Não planejada,103.6
+2026-08-11,2º Turno,Linha C,Quebra de máquina,Não planejada,47.0
+2026-08-11,2º Turno,Linha C,Quebra de máquina,Não planejada,31.2
+2026-08-11,2º Turno,Linha C,Aguardando qualidade,Não planejada,31.4
+2026-08-11,2º Turno,Linha C,Limpeza / Manutenção,Planejada,14.3
+2026-08-11,3º Turno,Linha A,Falta de material,Não planejada,5.5
+2026-08-11,3º Turno,Linha A,Ajuste de processo,Não planejada,5.9
+2026-08-11,3º Turno,Linha B,Falta de material,Não planejada,3.6
+2026-08-11,3º Turno,Linha B,Setup / Troca de produto,Planejada,11.0
+2026-08-11,3º Turno,Linha B,Falta de material,Não planejada,34.8
+2026-08-11,3º Turno,Linha C,Falta de material,Não planejada,9.8
+2026-08-11,3º Turno,Linha C,Limpeza / Manutenção,Planejada,18.0
+2026-08-11,3º Turno,Linha C,Falta de material,Não planejada,33.6
+2026-08-11,3º Turno,Linha C,Setup / Troca de produto,Planejada,22.4
+2026-08-11,3º Turno,Linha C,Setup / Troca de produto,Planejada,17.7
+2026-08-12,1º Turno,Linha A,Aguardando qualidade,Não planejada,17.2
+2026-08-12,1º Turno,Linha A,Falta de material,Não planejada,45.5
+2026-08-12,1º Turno,Linha A,Quebra de máquina,Não planejada,16.5
+2026-08-12,1º Turno,Linha B,Quebra de máquina,Não planejada,23.6
+2026-08-12,1º Turno,Linha C,Falta de material,Não planejada,27.1
+2026-08-12,2º Turno,Linha A,Quebra de máquina,Não planejada,45.2
+2026-08-12,2º Turno,Linha A,Falta de material,Não planejada,23.5
+2026-08-12,2º Turno,Linha A,Aguardando qualidade,Não planejada,4.8
+2026-08-12,2º Turno,Linha B,Quebra de máquina,Não planejada,57.7
+2026-08-12,2º Turno,Linha B,Falta de material,Não planejada,8.9
+2026-08-12,2º Turno,Linha C,Falta de material,Não planejada,49.7
+2026-08-12,2º Turno,Linha C,Setup / Troca de produto,Planejada,31.1
+2026-08-12,3º Turno,Linha A,Falta de material,Não planejada,11.4
+2026-08-12,3º Turno,Linha A,Falta de material,Não planejada,6.8
+2026-08-12,3º Turno,Linha A,Quebra de máquina,Não planejada,16.1
+2026-08-12,3º Turno,Linha A,Setup / Troca de produto,Planejada,4.8
+2026-08-12,3º Turno,Linha B,Falta de material,Não planejada,44.1
+2026-08-12,3º Turno,Linha B,Setup / Troca de produto,Planejada,10.2
+2026-08-12,3º Turno,Linha C,Limpeza / Manutenção,Planejada,10.9
+2026-08-12,3º Turno,Linha C,Setup / Troca de produto,Planejada,51.3
+2026-08-12,3º Turno,Linha C,Setup / Troca de produto,Planejada,22.4
+2026-08-12,3º Turno,Linha C,Falta de material,Não planejada,24.9
+2026-08-12,3º Turno,Linha C,Aguardando qualidade,Não planejada,3.0
+2026-08-13,1º Turno,Linha A,Quebra de máquina,Não planejada,11.3
+2026-08-13,1º Turno,Linha A,Limpeza / Manutenção,Planejada,17.0
+2026-08-13,1º Turno,Linha A,Setup / Troca de produto,Planejada,12.5
+2026-08-13,1º Turno,Linha B,Ajuste de processo,Não planejada,17.6
+2026-08-13,1º Turno,Linha B,Setup / Troca de produto,Planejada,18.4
+2026-08-13,1º Turno,Linha C,Ajuste de processo,Não planejada,9.6
+2026-08-13,2º Turno,Linha A,Setup / Troca de produto,Planejada,9.7
+2026-08-13,2º Turno,Linha A,Setup / Troca de produto,Planejada,19.6
+2026-08-13,2º Turno,Linha A,Setup / Troca de produto,Planejada,9.8
+2026-08-13,2º Turno,Linha B,Setup / Troca de produto,Planejada,19.1
+2026-08-13,2º Turno,Linha B,Setup / Troca de produto,Planejada,10.1
+2026-08-13,2º Turno,Linha B,Setup / Troca de produto,Planejada,66.1
+2026-08-13,2º Turno,Linha C,Limpeza / Manutenção,Planejada,10.1
+2026-08-13,3º Turno,Linha A,Quebra de máquina,Não planejada,51.3
+2026-08-13,3º Turno,Linha A,Quebra de máquina,Não planejada,46.6
+2026-08-13,3º Turno,Linha B,Limpeza / Manutenção,Planejada,31.1
+2026-08-13,3º Turno,Linha B,Quebra de máquina,Não planejada,12.7
+2026-08-13,3º Turno,Linha C,Ajuste de processo,Não planejada,6.1
+2026-08-13,3º Turno,Linha C,Limpeza / Manutenção,Planejada,2.0
+2026-08-14,1º Turno,Linha A,Falta de material,Não planejada,24.1
+2026-08-14,1º Turno,Linha A,Ajuste de processo,Não planejada,14.3
+2026-08-14,1º Turno,Linha A,Aguardando qualidade,Não planejada,8.0
+2026-08-14,1º Turno,Linha A,Setup / Troca de produto,Planejada,26.7
+2026-08-14,1º Turno,Linha A,Quebra de máquina,Não planejada,3.9
+2026-08-14,1º Turno,Linha A,Quebra de máquina,Não planejada,114.2
+2026-08-14,1º Turno,Linha A,Ajuste de processo,Não planejada,7.0
+2026-08-14,1º Turno,Linha C,Falta de material,Não planejada,83.7
+2026-08-14,1º Turno,Linha C,Quebra de máquina,Não planejada,45.4
+2026-08-14,2º Turno,Linha A,Aguardando qualidade,Não planejada,12.6
+2026-08-14,2º Turno,Linha A,Setup / Troca de produto,Planejada,24.6
+2026-08-14,2º Turno,Linha B,Aguardando qualidade,Não planejada,2.8
+2026-08-14,2º Turno,Linha C,Quebra de máquina,Não planejada,38.6
+2026-08-14,3º Turno,Linha A,Limpeza / Manutenção,Planejada,23.2
+2026-08-14,3º Turno,Linha A,Setup / Troca de produto,Planejada,2.7
+2026-08-14,3º Turno,Linha B,Limpeza / Manutenção,Planejada,10.3
+2026-08-14,3º Turno,Linha B,Setup / Troca de produto,Planejada,12.4
+2026-08-14,3º Turno,Linha B,Aguardando qualidade,Não planejada,4.6
+2026-08-14,3º Turno,Linha B,Limpeza / Manutenção,Planejada,25.7
+2026-08-14,3º Turno,Linha B,Aguardando qualidade,Não planejada,6.9
+2026-08-14,3º Turno,Linha B,Ajuste de processo,Não planejada,4.6
+2026-08-14,3º Turno,Linha B,Ajuste de processo,Não planejada,29.9
+2026-08-14,3º Turno,Linha B,Setup / Troca de produto,Planejada,7.2
+2026-08-14,3º Turno,Linha C,Falta de material,Não planejada,22.1
+2026-08-14,3º Turno,Linha C,Quebra de máquina,Não planejada,6.6
+2026-08-15,1º Turno,Linha A,Setup / Troca de produto,Planejada,13.3
+2026-08-15,1º Turno,Linha A,Quebra de máquina,Não planejada,19.8
+2026-08-15,1º Turno,Linha B,Limpeza / Manutenção,Planejada,15.6
+2026-08-15,1º Turno,Linha C,Aguardando qualidade,Não planejada,10.7
+2026-08-15,1º Turno,Linha C,Quebra de máquina,Não planejada,76.2
+2026-08-15,2º Turno,Linha A,Quebra de máquina,Não planejada,32.3
+2026-08-15,2º Turno,Linha A,Ajuste de processo,Não planejada,16.6
+2026-08-15,2º Turno,Linha A,Setup / Troca de produto,Planejada,33.4
+2026-08-15,2º Turno,Linha A,Setup / Troca de produto,Planejada,48.6
+2026-08-15,2º Turno,Linha A,Ajuste de processo,Não planejada,2.0
+2026-08-15,2º Turno,Linha B,Falta de material,Não planejada,52.9
+2026-08-15,2º Turno,Linha B,Aguardando qualidade,Não planejada,12.5
+2026-08-15,3º Turno,Linha A,Limpeza / Manutenção,Planejada,14.4
+2026-08-15,3º Turno,Linha A,Falta de material,Não planejada,2.0
+2026-08-15,3º Turno,Linha B,Setup / Troca de produto,Planejada,29.1
+2026-08-15,3º Turno,Linha B,Aguardando qualidade,Não planejada,7.1
+2026-08-15,3º Turno,Linha C,Ajuste de processo,Não planejada,7.7
+2026-08-15,3º Turno,Linha C,Setup / Troca de produto,Planejada,14.7
+2026-08-15,3º Turno,Linha C,Quebra de máquina,Não planejada,90.8
+2026-08-15,3º Turno,Linha C,Setup / Troca de produto,Planejada,22.2
+2026-08-16,1º Turno,Linha A,Quebra de máquina,Não planejada,57.8
+2026-08-16,1º Turno,Linha A,Setup / Troca de produto,Planejada,13.2
+2026-08-16,1º Turno,Linha A,Quebra de máquina,Não planejada,63.5
+2026-08-16,1º Turno,Linha B,Quebra de máquina,Não planejada,5.8
+2026-08-16,1º Turno,Linha C,Aguardando qualidade,Não planejada,18.5
+2026-08-16,2º Turno,Linha A,Falta de material,Não planejada,3.1
+2026-08-16,2º Turno,Linha A,Aguardando qualidade,Não planejada,12.0
+2026-08-16,2º Turno,Linha A,Falta de material,Não planejada,9.6
+2026-08-16,2º Turno,Linha B,Setup / Troca de produto,Planejada,44.9
+2026-08-16,2º Turno,Linha B,Ajuste de processo,Não planejada,9.7
+2026-08-16,2º Turno,Linha C,Setup / Troca de produto,Planejada,29.5
+2026-08-16,2º Turno,Linha C,Setup / Troca de produto,Planejada,10.1
+2026-08-16,3º Turno,Linha A,Falta de material,Não planejada,4.2
+2026-08-16,3º Turno,Linha B,Ajuste de processo,Não planejada,30.7
+2026-08-16,3º Turno,Linha B,Falta de material,Não planejada,22.6
+2026-08-16,3º Turno,Linha B,Falta de material,Não planejada,23.5
+2026-08-16,3º Turno,Linha B,Falta de material,Não planejada,13.2
+2026-08-16,3º Turno,Linha B,Falta de material,Não planejada,6.3
+2026-08-16,3º Turno,Linha C,Limpeza / Manutenção,Planejada,8.4
+2026-08-17,1º Turno,Linha A,Ajuste de processo,Não planejada,16.1
+2026-08-17,1º Turno,Linha A,Falta de material,Não planejada,38.2
+2026-08-17,1º Turno,Linha A,Limpeza / Manutenção,Planejada,41.6
+2026-08-17,1º Turno,Linha B,Falta de material,Não planejada,26.1
+2026-08-17,1º Turno,Linha B,Setup / Troca de produto,Planejada,35.7
+2026-08-17,2º Turno,Linha A,Falta de material,Não planejada,17.1
+2026-08-17,2º Turno,Linha A,Ajuste de processo,Não planejada,10.1
+2026-08-17,2º Turno,Linha C,Quebra de máquina,Não planejada,46.2
+2026-08-17,2º Turno,Linha C,Ajuste de processo,Não planejada,8.8
+2026-08-17,2º Turno,Linha C,Quebra de máquina,Não planejada,34.3
+2026-08-17,3º Turno,Linha A,Quebra de máquina,Não planejada,9.5
+2026-08-17,3º Turno,Linha A,Aguardando qualidade,Não planejada,12.9
+2026-08-17,3º Turno,Linha A,Ajuste de processo,Não planejada,29.3
+2026-08-17,3º Turno,Linha A,Quebra de máquina,Não planejada,37.5
+2026-08-17,3º Turno,Linha A,Quebra de máquina,Não planejada,25.7
+2026-08-17,3º Turno,Linha A,Setup / Troca de produto,Planejada,20.3
+2026-08-17,3º Turno,Linha B,Aguardando qualidade,Não planejada,2.4
+2026-08-17,3º Turno,Linha B,Limpeza / Manutenção,Planejada,30.5
+2026-08-17,3º Turno,Linha B,Ajuste de processo,Não planejada,11.6
+2026-08-17,3º Turno,Linha B,Aguardando qualidade,Não planejada,2.0
+2026-08-17,3º Turno,Linha C,Setup / Troca de produto,Planejada,33.4
+2026-08-17,3º Turno,Linha C,Setup / Troca de produto,Planejada,14.7
+2026-08-17,3º Turno,Linha C,Setup / Troca de produto,Planejada,40.5
+2026-08-18,1º Turno,Linha A,Quebra de máquina,Não planejada,25.1
+2026-08-18,1º Turno,Linha A,Limpeza / Manutenção,Planejada,9.5
+2026-08-18,1º Turno,Linha A,Falta de material,Não planejada,23.6
+2026-08-18,1º Turno,Linha B,Setup / Troca de produto,Planejada,13.0
+2026-08-18,1º Turno,Linha B,Aguardando qualidade,Não planejada,6.1
+2026-08-18,1º Turno,Linha B,Ajuste de processo,Não planejada,10.2
+2026-08-18,1º Turno,Linha B,Falta de material,Não planejada,17.3
+2026-08-18,2º Turno,Linha A,Quebra de máquina,Não planejada,29.0
+2026-08-18,2º Turno,Linha A,Falta de material,Não planejada,32.7
+2026-08-18,2º Turno,Linha B,Aguardando qualidade,Não planejada,18.0
+2026-08-18,2º Turno,Linha C,Setup / Troca de produto,Planejada,17.8
+2026-08-18,2º Turno,Linha C,Falta de material,Não planejada,19.8
+2026-08-18,2º Turno,Linha C,Quebra de máquina,Não planejada,36.1
+2026-08-18,2º Turno,Linha C,Ajuste de processo,Não planejada,12.7
+2026-08-18,2º Turno,Linha C,Ajuste de processo,Não planejada,14.6
+2026-08-18,2º Turno,Linha C,Setup / Troca de produto,Planejada,23.8
+2026-08-18,2º Turno,Linha C,Setup / Troca de produto,Planejada,15.3
+2026-08-18,3º Turno,Linha A,Quebra de máquina,Não planejada,13.5
+2026-08-18,3º Turno,Linha A,Ajuste de processo,Não planejada,27.2
+2026-08-18,3º Turno,Linha B,Quebra de máquina,Não planejada,35.2
+2026-08-18,3º Turno,Linha B,Setup / Troca de produto,Planejada,3.3
+2026-08-18,3º Turno,Linha B,Falta de material,Não planejada,23.1
+2026-08-18,3º Turno,Linha B,Quebra de máquina,Não planejada,34.6
+2026-08-18,3º Turno,Linha C,Ajuste de processo,Não planejada,8.2
+2026-08-18,3º Turno,Linha C,Setup / Troca de produto,Planejada,47.5
+2026-08-19,1º Turno,Linha A,Falta de material,Não planejada,2.6
+2026-08-19,1º Turno,Linha A,Quebra de máquina,Não planejada,8.2
+2026-08-19,1º Turno,Linha B,Setup / Troca de produto,Planejada,37.4
+2026-08-19,1º Turno,Linha B,Falta de material,Não planejada,25.8
+2026-08-19,1º Turno,Linha C,Setup / Troca de produto,Planejada,21.1
+2026-08-19,1º Turno,Linha C,Limpeza / Manutenção,Planejada,26.7
+2026-08-19,1º Turno,Linha C,Falta de material,Não planejada,17.9
+2026-08-19,2º Turno,Linha A,Falta de material,Não planejada,9.1
+2026-08-19,2º Turno,Linha B,Setup / Troca de produto,Planejada,49.7
+2026-08-19,2º Turno,Linha B,Falta de material,Não planejada,16.4
+2026-08-19,2º Turno,Linha B,Falta de material,Não planejada,9.1
+2026-08-19,2º Turno,Linha B,Limpeza / Manutenção,Planejada,4.2
+2026-08-19,2º Turno,Linha B,Setup / Troca de produto,Planejada,72.1
+2026-08-19,2º Turno,Linha C,Aguardando qualidade,Não planejada,3.4
+2026-08-19,2º Turno,Linha C,Setup / Troca de produto,Planejada,19.1
+2026-08-19,2º Turno,Linha C,Setup / Troca de produto,Planejada,31.6
+2026-08-19,3º Turno,Linha A,Quebra de máquina,Não planejada,18.2
+2026-08-19,3º Turno,Linha A,Quebra de máquina,Não planejada,41.0
+2026-08-19,3º Turno,Linha A,Falta de material,Não planejada,25.9
+2026-08-19,3º Turno,Linha B,Ajuste de processo,Não planejada,2.8
+2026-08-19,3º Turno,Linha C,Quebra de máquina,Não planejada,10.6
+2026-08-19,3º Turno,Linha C,Quebra de máquina,Não planejada,14.4
+2026-08-19,3º Turno,Linha C,Aguardando qualidade,Não planejada,15.9
+2026-08-20,1º Turno,Linha A,Falta de material,Não planejada,38.7
+2026-08-20,1º Turno,Linha A,Ajuste de processo,Não planejada,25.9
+2026-08-20,1º Turno,Linha B,Ajuste de processo,Não planejada,4.8
+2026-08-20,1º Turno,Linha C,Falta de material,Não planejada,21.3
+2026-08-20,1º Turno,Linha C,Falta de material,Não planejada,11.9
+2026-08-20,1º Turno,Linha C,Ajuste de processo,Não planejada,35.2
+2026-08-20,1º Turno,Linha C,Ajuste de processo,Não planejada,11.4
+2026-08-20,1º Turno,Linha C,Setup / Troca de produto,Planejada,49.7
+2026-08-20,2º Turno,Linha A,Limpeza / Manutenção,Planejada,34.4
+2026-08-20,2º Turno,Linha A,Setup / Troca de produto,Planejada,43.6
+2026-08-20,2º Turno,Linha A,Quebra de máquina,Não planejada,87.2
+2026-08-20,2º Turno,Linha A,Setup / Troca de produto,Planejada,52.0
+2026-08-20,2º Turno,Linha B,Falta de material,Não planejada,15.6
+2026-08-20,3º Turno,Linha A,Setup / Troca de produto,Planejada,35.3
+2026-08-20,3º Turno,Linha A,Falta de material,Não planejada,19.0
+2026-08-20,3º Turno,Linha A,Falta de material,Não planejada,20.9
+2026-08-20,3º Turno,Linha B,Setup / Troca de produto,Planejada,43.6
+2026-08-20,3º Turno,Linha B,Setup / Troca de produto,Planejada,34.3
+2026-08-20,3º Turno,Linha B,Falta de material,Não planejada,14.8
+2026-08-20,3º Turno,Linha C,Falta de material,Não planejada,2.2
+2026-08-21,1º Turno,Linha A,Ajuste de processo,Não planejada,4.6
+2026-08-21,1º Turno,Linha B,Falta de material,Não planejada,12.7
+2026-08-21,1º Turno,Linha B,Falta de material,Não planejada,26.0
+2026-08-21,1º Turno,Linha C,Falta de material,Não planejada,7.5
+2026-08-21,1º Turno,Linha C,Quebra de máquina,Não planejada,79.0
+2026-08-21,1º Turno,Linha C,Ajuste de processo,Não planejada,8.5
+2026-08-21,2º Turno,Linha B,Quebra de máquina,Não planejada,24.7
+2026-08-21,2º Turno,Linha C,Setup / Troca de produto,Planejada,44.3
+2026-08-21,2º Turno,Linha C,Setup / Troca de produto,Planejada,9.9
+2026-08-21,2º Turno,Linha C,Setup / Troca de produto,Planejada,66.3
+2026-08-21,3º Turno,Linha A,Quebra de máquina,Não planejada,39.5
+2026-08-21,3º Turno,Linha A,Falta de material,Não planejada,25.7
+2026-08-21,3º Turno,Linha A,Aguardando qualidade,Não planejada,3.5
+2026-08-21,3º Turno,Linha A,Quebra de máquina,Não planejada,60.4
+2026-08-21,3º Turno,Linha A,Ajuste de processo,Não planejada,2.0
+2026-08-21,3º Turno,Linha A,Quebra de máquina,Não planejada,45.3
+2026-08-21,3º Turno,Linha B,Quebra de máquina,Não planejada,38.9
+2026-08-21,3º Turno,Linha B,Falta de material,Não planejada,11.7
+2026-08-21,3º Turno,Linha B,Setup / Troca de produto,Planejada,39.9
+2026-08-21,3º Turno,Linha B,Quebra de máquina,Não planejada,8.1
+2026-08-21,3º Turno,Linha C,Quebra de máquina,Não planejada,15.6
+2026-08-21,3º Turno,Linha C,Falta de material,Não planejada,52.0
+2026-08-22,1º Turno,Linha A,Setup / Troca de produto,Planejada,10.9
+2026-08-22,1º Turno,Linha A,Ajuste de processo,Não planejada,10.7
+2026-08-22,1º Turno,Linha B,Quebra de máquina,Não planejada,10.9
+2026-08-22,1º Turno,Linha B,Falta de material,Não planejada,18.6
+2026-08-22,1º Turno,Linha C,Aguardando qualidade,Não planejada,3.1
+2026-08-22,1º Turno,Linha C,Setup / Troca de produto,Planejada,40.4
+2026-08-22,2º Turno,Linha A,Ajuste de processo,Não planejada,14.0
+2026-08-22,2º Turno,Linha A,Aguardando qualidade,Não planejada,4.0
+2026-08-22,2º Turno,Linha B,Quebra de máquina,Não planejada,36.7
+2026-08-22,2º Turno,Linha C,Setup / Troca de produto,Planejada,12.8
+2026-08-22,2º Turno,Linha C,Limpeza / Manutenção,Planejada,3.6
+2026-08-22,2º Turno,Linha C,Setup / Troca de produto,Planejada,16.3
+2026-08-22,3º Turno,Linha B,Ajuste de processo,Não planejada,8.9
+2026-08-22,3º Turno,Linha B,Setup / Troca de produto,Planejada,5.6
+2026-08-22,3º Turno,Linha B,Falta de material,Não planejada,5.8
+2026-08-22,3º Turno,Linha C,Quebra de máquina,Não planejada,3.0
+2026-08-22,3º Turno,Linha C,Falta de material,Não planejada,11.8
+2026-08-22,3º Turno,Linha C,Ajuste de processo,Não planejada,3.4
+2026-08-22,3º Turno,Linha C,Limpeza / Manutenção,Planejada,45.7
+2026-08-22,3º Turno,Linha C,Setup / Troca de produto,Planejada,9.2
+2026-08-22,3º Turno,Linha C,Setup / Troca de produto,Planejada,13.6
+2026-08-23,1º Turno,Linha A,Quebra de máquina,Não planejada,106.1
+2026-08-23,1º Turno,Linha A,Falta de material,Não planejada,11.6
+2026-08-23,1º Turno,Linha B,Falta de material,Não planejada,5.6
+2026-08-23,1º Turno,Linha B,Quebra de máquina,Não planejada,3.6
+2026-08-23,1º Turno,Linha B,Ajuste de processo,Não planejada,2.4
+2026-08-23,1º Turno,Linha C,Ajuste de processo,Não planejada,8.4
+2026-08-23,1º Turno,Linha C,Ajuste de processo,Não planejada,18.1
+2026-08-23,1º Turno,Linha C,Falta de material,Não planejada,6.2
+2026-08-23,1º Turno,Linha C,Falta de material,Não planejada,39.8
+2026-08-23,2º Turno,Linha A,Quebra de máquina,Não planejada,59.0
+2026-08-23,2º Turno,Linha A,Ajuste de processo,Não planejada,9.1
+2026-08-23,2º Turno,Linha B,Quebra de máquina,Não planejada,29.0
+2026-08-23,2º Turno,Linha C,Limpeza / Manutenção,Planejada,9.8
+2026-08-23,2º Turno,Linha C,Aguardando qualidade,Não planejada,4.7
+2026-08-23,2º Turno,Linha C,Falta de material,Não planejada,27.5
+2026-08-23,3º Turno,Linha A,Setup / Troca de produto,Planejada,22.7
+2026-08-23,3º Turno,Linha A,Setup / Troca de produto,Planejada,64.1
+2026-08-23,3º Turno,Linha A,Setup / Troca de produto,Planejada,15.5
+2026-08-23,3º Turno,Linha A,Setup / Troca de produto,Planejada,18.8
+2026-08-23,3º Turno,Linha B,Limpeza / Manutenção,Planejada,4.5
+2026-08-23,3º Turno,Linha B,Falta de material,Não planejada,21.3
+2026-08-23,3º Turno,Linha C,Falta de material,Não planejada,14.1
+2026-08-24,1º Turno,Linha A,Limpeza / Manutenção,Planejada,24.5
+2026-08-24,1º Turno,Linha A,Aguardando qualidade,Não planejada,38.4
+2026-08-24,1º Turno,Linha A,Setup / Troca de produto,Planejada,28.8
+2026-08-24,1º Turno,Linha A,Falta de material,Não planejada,6.4
+2026-08-24,1º Turno,Linha B,Ajuste de processo,Não planejada,2.0
+2026-08-24,1º Turno,Linha B,Falta de material,Não planejada,29.5
+2026-08-24,1º Turno,Linha C,Ajuste de processo,Não planejada,36.6
+2026-08-24,1º Turno,Linha C,Quebra de máquina,Não planejada,43.9
+2026-08-24,1º Turno,Linha C,Setup / Troca de produto,Planejada,29.1
+2026-08-24,2º Turno,Linha A,Ajuste de processo,Não planejada,12.3
+2026-08-24,2º Turno,Linha A,Quebra de máquina,Não planejada,20.4
+2026-08-24,2º Turno,Linha A,Setup / Troca de produto,Planejada,60.2
+2026-08-24,2º Turno,Linha A,Quebra de máquina,Não planejada,4.6
+2026-08-24,2º Turno,Linha A,Falta de material,Não planejada,19.9
+2026-08-24,2º Turno,Linha A,Falta de material,Não planejada,15.4
+2026-08-24,2º Turno,Linha C,Ajuste de processo,Não planejada,13.3
+2026-08-24,2º Turno,Linha C,Ajuste de processo,Não planejada,6.1
+2026-08-24,3º Turno,Linha A,Setup / Troca de produto,Planejada,30.2
+2026-08-24,3º Turno,Linha B,Quebra de máquina,Não planejada,45.7
+2026-08-24,3º Turno,Linha B,Falta de material,Não planejada,16.5
+2026-08-24,3º Turno,Linha B,Limpeza / Manutenção,Planejada,15.9
+2026-08-24,3º Turno,Linha C,Limpeza / Manutenção,Planejada,8.0
+2026-08-24,3º Turno,Linha C,Quebra de máquina,Não planejada,7.6
+2026-08-24,3º Turno,Linha C,Limpeza / Manutenção,Planejada,41.7
+2026-08-24,3º Turno,Linha C,Quebra de máquina,Não planejada,8.9
+2026-08-25,1º Turno,Linha A,Falta de material,Não planejada,5.3
+2026-08-25,1º Turno,Linha A,Falta de material,Não planejada,28.1
+2026-08-25,1º Turno,Linha A,Aguardando qualidade,Não planejada,6.5
+2026-08-25,1º Turno,Linha A,Falta de material,Não planejada,37.0
+2026-08-25,1º Turno,Linha A,Falta de material,Não planejada,13.9
+2026-08-25,1º Turno,Linha B,Quebra de máquina,Não planejada,5.6
+2026-08-25,1º Turno,Linha B,Quebra de máquina,Não planejada,13.1
+2026-08-25,1º Turno,Linha C,Ajuste de processo,Não planejada,21.1
+2026-08-25,2º Turno,Linha B,Aguardando qualidade,Não planejada,8.3
+2026-08-25,2º Turno,Linha C,Setup / Troca de produto,Planejada,13.3
+2026-08-25,2º Turno,Linha C,Aguardando qualidade,Não planejada,6.1
+2026-08-25,3º Turno,Linha A,Limpeza / Manutenção,Planejada,3.9
+2026-08-25,3º Turno,Linha B,Limpeza / Manutenção,Planejada,2.1
+2026-08-25,3º Turno,Linha B,Falta de material,Não planejada,2.0
+2026-08-25,3º Turno,Linha B,Setup / Troca de produto,Planejada,19.7
+2026-08-25,3º Turno,Linha C,Aguardando qualidade,Não planejada,16.7
+2026-08-25,3º Turno,Linha C,Quebra de máquina,Não planejada,28.2
+2026-08-25,3º Turno,Linha C,Limpeza / Manutenção,Planejada,12.1
+2026-08-25,3º Turno,Linha C,Limpeza / Manutenção,Planejada,48.9
+2026-08-26,1º Turno,Linha A,Ajuste de processo,Não planejada,10.9
+2026-08-26,1º Turno,Linha A,Limpeza / Manutenção,Planejada,7.2
+2026-08-26,1º Turno,Linha B,Aguardando qualidade,Não planejada,9.8
+2026-08-26,1º Turno,Linha B,Falta de material,Não planejada,31.2
+2026-08-26,1º Turno,Linha B,Limpeza / Manutenção,Planejada,26.5
+2026-08-26,1º Turno,Linha C,Falta de material,Não planejada,32.8
+2026-08-26,2º Turno,Linha A,Falta de material,Não planejada,3.2
+2026-08-26,2º Turno,Linha A,Setup / Troca de produto,Planejada,48.0
+2026-08-26,2º Turno,Linha B,Quebra de máquina,Não planejada,16.7
+2026-08-26,2º Turno,Linha B,Quebra de máquina,Não planejada,24.1
+2026-08-26,2º Turno,Linha B,Quebra de máquina,Não planejada,29.0
+2026-08-26,2º Turno,Linha B,Limpeza / Manutenção,Planejada,8.6
+2026-08-26,2º Turno,Linha B,Ajuste de processo,Não planejada,22.1
+2026-08-26,2º Turno,Linha C,Setup / Troca de produto,Planejada,22.0
+2026-08-26,2º Turno,Linha C,Setup / Troca de produto,Planejada,4.7
+2026-08-26,2º Turno,Linha C,Falta de material,Não planejada,10.4
+2026-08-26,3º Turno,Linha A,Ajuste de processo,Não planejada,10.3
+2026-08-26,3º Turno,Linha A,Setup / Troca de produto,Planejada,40.6
+2026-08-26,3º Turno,Linha B,Quebra de máquina,Não planejada,34.5
+2026-08-26,3º Turno,Linha B,Aguardando qualidade,Não planejada,7.4
+2026-08-26,3º Turno,Linha B,Quebra de máquina,Não planejada,17.1
+2026-08-26,3º Turno,Linha B,Ajuste de processo,Não planejada,9.5
+2026-08-26,3º Turno,Linha B,Falta de material,Não planejada,22.8
+2026-08-26,3º Turno,Linha C,Falta de material,Não planejada,13.7
+2026-08-26,3º Turno,Linha C,Ajuste de processo,Não planejada,6.4
+2026-08-26,3º Turno,Linha C,Setup / Troca de produto,Planejada,17.4
+2026-08-26,3º Turno,Linha C,Falta de material,Não planejada,15.9
+2026-08-26,3º Turno,Linha C,Ajuste de processo,Não planejada,11.6
+2026-08-27,1º Turno,Linha A,Quebra de máquina,Não planejada,17.7
+2026-08-27,1º Turno,Linha B,Aguardando qualidade,Não planejada,5.6
+2026-08-27,1º Turno,Linha C,Limpeza / Manutenção,Planejada,2.0
+2026-08-27,1º Turno,Linha C,Falta de material,Não planejada,2.0
+2026-08-27,2º Turno,Linha A,Falta de material,Não planejada,6.7
+2026-08-27,2º Turno,Linha B,Setup / Troca de produto,Planejada,16.9
+2026-08-27,2º Turno,Linha B,Aguardando qualidade,Não planejada,12.7
+2026-08-27,2º Turno,Linha B,Ajuste de processo,Não planejada,7.2
+2026-08-27,2º Turno,Linha C,Setup / Troca de produto,Planejada,19.1
+2026-08-27,3º Turno,Linha A,Falta de material,Não planejada,29.0
+2026-08-27,3º Turno,Linha A,Falta de material,Não planejada,4.3
+2026-08-27,3º Turno,Linha A,Setup / Troca de produto,Planejada,23.3
+2026-08-27,3º Turno,Linha B,Ajuste de processo,Não planejada,11.5
+2026-08-27,3º Turno,Linha C,Falta de material,Não planejada,32.2
+2026-08-27,3º Turno,Linha C,Setup / Troca de produto,Planejada,32.7
+2026-08-27,3º Turno,Linha C,Aguardando qualidade,Não planejada,7.0
+2026-08-28,1º Turno,Linha A,Limpeza / Manutenção,Planejada,39.0
+2026-08-28,1º Turno,Linha A,Aguardando qualidade,Não planejada,3.4
+2026-08-28,1º Turno,Linha A,Falta de material,Não planejada,7.7
+2026-08-28,1º Turno,Linha B,Quebra de máquina,Não planejada,26.0
+2026-08-28,1º Turno,Linha B,Setup / Troca de produto,Planejada,22.2
+2026-08-28,1º Turno,Linha B,Quebra de máquina,Não planejada,9.5
+2026-08-28,1º Turno,Linha C,Quebra de máquina,Não planejada,90.1
+2026-08-28,1º Turno,Linha C,Falta de material,Não planejada,54.2
+2026-08-28,1º Turno,Linha C,Ajuste de processo,Não planejada,3.4
+2026-08-28,1º Turno,Linha C,Ajuste de processo,Não planejada,9.3
+2026-08-28,1º Turno,Linha C,Aguardando qualidade,Não planejada,18.2
+2026-08-28,2º Turno,Linha A,Aguardando qualidade,Não planejada,2.0
+2026-08-28,2º Turno,Linha A,Falta de material,Não planejada,11.0
+2026-08-28,2º Turno,Linha B,Setup / Troca de produto,Planejada,15.7
+2026-08-28,2º Turno,Linha B,Setup / Troca de produto,Planejada,36.2
+2026-08-28,2º Turno,Linha B,Ajuste de processo,Não planejada,21.1
+2026-08-28,2º Turno,Linha C,Setup / Troca de produto,Planejada,24.1
+2026-08-28,2º Turno,Linha C,Setup / Troca de produto,Planejada,25.8
+2026-08-28,2º Turno,Linha C,Falta de material,Não planejada,6.1
+2026-08-28,3º Turno,Linha A,Setup / Troca de produto,Planejada,23.6
+2026-08-28,3º Turno,Linha A,Setup / Troca de produto,Planejada,58.3
+2026-08-28,3º Turno,Linha A,Ajuste de processo,Não planejada,5.0
+2026-08-28,3º Turno,Linha A,Quebra de máquina,Não planejada,22.4
+2026-08-28,3º Turno,Linha A,Falta de material,Não planejada,35.2
+2026-08-28,3º Turno,Linha A,Setup / Troca de produto,Planejada,18.3
+2026-08-28,3º Turno,Linha A,Quebra de máquina,Não planejada,8.6
+2026-08-28,3º Turno,Linha A,Setup / Troca de produto,Planejada,9.5
+2026-08-28,3º Turno,Linha B,Limpeza / Manutenção,Planejada,9.9
+2026-08-28,3º Turno,Linha B,Setup / Troca de produto,Planejada,26.1
+2026-08-28,3º Turno,Linha C,Aguardando qualidade,Não planejada,14.3
+2026-08-28,3º Turno,Linha C,Quebra de máquina,Não planejada,29.2
+2026-08-29,1º Turno,Linha A,Setup / Troca de produto,Planejada,21.1
+2026-08-29,1º Turno,Linha A,Quebra de máquina,Não planejada,57.9
+2026-08-29,1º Turno,Linha B,Falta de material,Não planejada,4.9
+2026-08-29,1º Turno,Linha B,Setup / Troca de produto,Planejada,8.9
+2026-08-29,1º Turno,Linha B,Aguardando qualidade,Não planejada,11.7
+2026-08-29,1º Turno,Linha C,Setup / Troca de produto,Planejada,38.0
+2026-08-29,1º Turno,Linha C,Falta de material,Não planejada,7.2
+2026-08-29,1º Turno,Linha C,Ajuste de processo,Não planejada,7.6
+2026-08-29,2º Turno,Linha B,Quebra de máquina,Não planejada,15.2
+2026-08-29,2º Turno,Linha C,Ajuste de processo,Não planejada,5.4
+2026-08-29,2º Turno,Linha C,Limpeza / Manutenção,Planejada,11.6
+2026-08-29,3º Turno,Linha A,Aguardando qualidade,Não planejada,28.4
+2026-08-29,3º Turno,Linha B,Setup / Troca de produto,Planejada,17.7
+2026-08-29,3º Turno,Linha B,Ajuste de processo,Não planejada,8.6
+2026-08-29,3º Turno,Linha B,Ajuste de processo,Não planejada,8.4
+2026-08-29,3º Turno,Linha B,Ajuste de processo,Não planejada,12.5
+2026-08-29,3º Turno,Linha C,Aguardando qualidade,Não planejada,12.5
+2026-08-29,3º Turno,Linha C,Ajuste de processo,Não planejada,6.3
+2026-08-29,3º Turno,Linha C,Falta de material,Não planejada,5.6
+2026-08-29,3º Turno,Linha C,Ajuste de processo,Não planejada,16.9
+2026-08-29,3º Turno,Linha C,Ajuste de processo,Não planejada,6.4
+2026-08-30,1º Turno,Linha A,Setup / Troca de produto,Planejada,32.9
+2026-08-30,1º Turno,Linha A,Aguardando qualidade,Não planejada,4.5
+2026-08-30,1º Turno,Linha A,Quebra de máquina,Não planejada,48.2
+2026-08-30,1º Turno,Linha B,Setup / Troca de produto,Planejada,16.8
+2026-08-30,1º Turno,Linha C,Limpeza / Manutenção,Planejada,28.3
+2026-08-30,1º Turno,Linha C,Quebra de máquina,Não planejada,6.7
+2026-08-30,1º Turno,Linha C,Aguardando qualidade,Não planejada,19.8
+2026-08-30,2º Turno,Linha A,Ajuste de processo,Não planejada,6.8
+2026-08-30,2º Turno,Linha A,Limpeza / Manutenção,Planejada,6.1
+2026-08-30,2º Turno,Linha B,Setup / Troca de produto,Planejada,16.5
+2026-08-30,3º Turno,Linha A,Quebra de máquina,Não planejada,136.9
+2026-08-30,3º Turno,Linha A,Quebra de máquina,Não planejada,29.8
+2026-08-30,3º Turno,Linha A,Limpeza / Manutenção,Planejada,19.6
+2026-08-30,3º Turno,Linha B,Falta de material,Não planejada,15.6
+2026-08-30,3º Turno,Linha B,Falta de material,Não planejada,22.9
+2026-08-30,3º Turno,Linha B,Quebra de máquina,Não planejada,37.4
+2026-08-30,3º Turno,Linha B,Setup / Troca de produto,Planejada,21.0
+2026-08-30,3º Turno,Linha B,Falta de material,Não planejada,14.0
+2026-08-30,3º Turno,Linha C,Setup / Troca de produto,Planejada,6.8
+2026-08-30,3º Turno,Linha C,Quebra de máquina,Não planejada,38.6
+2026-08-30,3º Turno,Linha C,Ajuste de processo,Não planejada,15.1
+2026-08-30,3º Turno,Linha C,Setup / Troca de produto,Planejada,20.9
+2026-08-30,3º Turno,Linha C,Aguardando qualidade,Não planejada,12.7
+2026-08-31,1º Turno,Linha A,Limpeza / Manutenção,Planejada,11.4
+2026-08-31,1º Turno,Linha C,Falta de material,Não planejada,7.7
+2026-08-31,1º Turno,Linha C,Setup / Troca de produto,Planejada,26.1
+2026-08-31,1º Turno,Linha C,Quebra de máquina,Não planejada,21.9
+2026-08-31,1º Turno,Linha C,Quebra de máquina,Não planejada,18.3
+2026-08-31,2º Turno,Linha A,Setup / Troca de produto,Planejada,19.7
+2026-08-31,2º Turno,Linha B,Setup / Troca de produto,Planejada,25.9
+2026-08-31,2º Turno,Linha B,Ajuste de processo,Não planejada,11.7
+2026-08-31,2º Turno,Linha B,Falta de material,Não planejada,4.7
+2026-08-31,2º Turno,Linha C,Quebra de máquina,Não planejada,33.1
+2026-08-31,2º Turno,Linha C,Falta de material,Não planejada,13.4
+2026-08-31,3º Turno,Linha A,Quebra de máquina,Não planejada,37.5
+2026-08-31,3º Turno,Linha A,Ajuste de processo,Não planejada,11.7
+2026-08-31,3º Turno,Linha A,Setup / Troca de produto,Planejada,38.7
+2026-08-31,3º Turno,Linha A,Ajuste de processo,Não planejada,6.4
+2026-08-31,3º Turno,Linha A,Quebra de máquina,Não planejada,12.3
+2026-08-31,3º Turno,Linha B,Aguardando qualidade,Não planejada,15.1
+2026-08-31,3º Turno,Linha C,Ajuste de processo,Não planejada,5.5
+2026-08-31,3º Turno,Linha C,Setup / Troca de produto,Planejada,8.3
+2026-09-01,1º Turno,Linha A,Aguardando qualidade,Não planejada,9.2
+2026-09-01,1º Turno,Linha A,Quebra de máquina,Não planejada,44.2
+2026-09-01,1º Turno,Linha A,Falta de material,Não planejada,16.4
+2026-09-01,1º Turno,Linha A,Falta de material,Não planejada,6.5
+2026-09-01,1º Turno,Linha C,Setup / Troca de produto,Planejada,49.4
+2026-09-01,1º Turno,Linha C,Quebra de máquina,Não planejada,41.0
+2026-09-01,1º Turno,Linha C,Setup / Troca de produto,Planejada,43.9
+2026-09-01,2º Turno,Linha A,Setup / Troca de produto,Planejada,18.2
+2026-09-01,2º Turno,Linha B,Setup / Troca de produto,Planejada,31.8
+2026-09-01,2º Turno,Linha B,Quebra de máquina,Não planejada,17.6
+2026-09-01,2º Turno,Linha B,Setup / Troca de produto,Planejada,32.9
+2026-09-01,2º Turno,Linha B,Falta de material,Não planejada,3.6
+2026-09-01,2º Turno,Linha C,Falta de material,Não planejada,32.8
+2026-09-01,3º Turno,Linha B,Falta de material,Não planejada,12.9
+2026-09-01,3º Turno,Linha B,Falta de material,Não planejada,18.4
+2026-09-01,3º Turno,Linha B,Aguardando qualidade,Não planejada,8.7
+2026-09-01,3º Turno,Linha B,Falta de material,Não planejada,17.0
+2026-09-02,1º Turno,Linha A,Limpeza / Manutenção,Planejada,5.9
+2026-09-02,1º Turno,Linha A,Falta de material,Não planejada,17.1
+2026-09-02,1º Turno,Linha A,Falta de material,Não planejada,4.8
+2026-09-02,1º Turno,Linha B,Setup / Troca de produto,Planejada,9.2
+2026-09-02,1º Turno,Linha B,Falta de material,Não planejada,66.6
+2026-09-02,1º Turno,Linha B,Quebra de máquina,Não planejada,25.8
+2026-09-02,1º Turno,Linha B,Quebra de máquina,Não planejada,11.6
+2026-09-02,1º Turno,Linha B,Setup / Troca de produto,Planejada,7.4
+2026-09-02,1º Turno,Linha B,Ajuste de processo,Não planejada,10.4
+2026-09-02,1º Turno,Linha C,Quebra de máquina,Não planejada,72.4
+2026-09-02,2º Turno,Linha A,Falta de material,Não planejada,4.2
+2026-09-02,2º Turno,Linha A,Quebra de máquina,Não planejada,20.9
+2026-09-02,2º Turno,Linha B,Ajuste de processo,Não planejada,16.3
+2026-09-02,2º Turno,Linha B,Quebra de máquina,Não planejada,13.5
+2026-09-02,2º Turno,Linha B,Aguardando qualidade,Não planejada,3.2
+2026-09-02,2º Turno,Linha C,Falta de material,Não planejada,10.5
+2026-09-02,3º Turno,Linha A,Setup / Troca de produto,Planejada,7.4
+2026-09-02,3º Turno,Linha B,Ajuste de processo,Não planejada,5.2
+2026-09-02,3º Turno,Linha B,Setup / Troca de produto,Planejada,64.0
+2026-09-02,3º Turno,Linha B,Quebra de máquina,Não planejada,3.9
+2026-09-02,3º Turno,Linha C,Falta de material,Não planejada,11.8
+2026-09-02,3º Turno,Linha C,Ajuste de processo,Não planejada,8.9
+2026-09-02,3º Turno,Linha C,Limpeza / Manutenção,Planejada,14.6
+2026-09-02,3º Turno,Linha C,Ajuste de processo,Não planejada,7.6
+2026-09-02,3º Turno,Linha C,Limpeza / Manutenção,Planejada,6.7
+2026-09-02,3º Turno,Linha C,Ajuste de processo,Não planejada,17.0
+2026-09-03,1º Turno,Linha A,Setup / Troca de produto,Planejada,11.0
+2026-09-03,1º Turno,Linha B,Setup / Troca de produto,Planejada,40.0
+2026-09-03,1º Turno,Linha B,Setup / Troca de produto,Planejada,30.0
+2026-09-03,1º Turno,Linha B,Ajuste de processo,Não planejada,5.8
+2026-09-03,1º Turno,Linha B,Setup / Troca de produto,Planejada,20.7
+2026-09-03,1º Turno,Linha C,Setup / Troca de produto,Planejada,26.1
+2026-09-03,2º Turno,Linha A,Falta de material,Não planejada,9.3
+2026-09-03,2º Turno,Linha A,Falta de material,Não planejada,16.4
+2026-09-03,2º Turno,Linha A,Setup / Troca de produto,Planejada,30.0
+2026-09-03,2º Turno,Linha A,Falta de material,Não planejada,12.7
+2026-09-03,2º Turno,Linha A,Aguardando qualidade,Não planejada,7.1
+2026-09-03,2º Turno,Linha B,Limpeza / Manutenção,Planejada,2.0
+2026-09-03,2º Turno,Linha B,Quebra de máquina,Não planejada,18.3
+2026-09-03,2º Turno,Linha C,Falta de material,Não planejada,7.9
+2026-09-03,3º Turno,Linha A,Falta de material,Não planejada,26.2
+2026-09-03,3º Turno,Linha A,Setup / Troca de produto,Planejada,5.3
+2026-09-03,3º Turno,Linha B,Setup / Troca de produto,Planejada,35.8
+2026-09-03,3º Turno,Linha B,Ajuste de processo,Não planejada,5.7
+2026-09-03,3º Turno,Linha B,Limpeza / Manutenção,Planejada,17.0
+2026-09-03,3º Turno,Linha C,Falta de material,Não planejada,10.9
+2026-09-04,1º Turno,Linha A,Ajuste de processo,Não planejada,14.1
+2026-09-04,1º Turno,Linha A,Quebra de máquina,Não planejada,32.3
+2026-09-04,1º Turno,Linha B,Limpeza / Manutenção,Planejada,6.2
+2026-09-04,1º Turno,Linha B,Aguardando qualidade,Não planejada,2.0
+2026-09-04,1º Turno,Linha B,Aguardando qualidade,Não planejada,19.5
+2026-09-04,1º Turno,Linha B,Quebra de máquina,Não planejada,46.2
+2026-09-04,1º Turno,Linha C,Ajuste de processo,Não planejada,9.8
+2026-09-04,1º Turno,Linha C,Ajuste de processo,Não planejada,16.1
+2026-09-04,2º Turno,Linha A,Limpeza / Manutenção,Planejada,5.3
+2026-09-04,2º Turno,Linha A,Ajuste de processo,Não planejada,7.1
+2026-09-04,2º Turno,Linha B,Ajuste de processo,Não planejada,9.9
+2026-09-04,2º Turno,Linha B,Quebra de máquina,Não planejada,25.5
+2026-09-04,2º Turno,Linha B,Setup / Troca de produto,Planejada,23.0
+2026-09-04,2º Turno,Linha B,Quebra de máquina,Não planejada,64.8
+2026-09-04,2º Turno,Linha C,Aguardando qualidade,Não planejada,6.7
+2026-09-04,2º Turno,Linha C,Falta de material,Não planejada,7.3
+2026-09-04,2º Turno,Linha C,Falta de material,Não planejada,2.7
+2026-09-04,3º Turno,Linha A,Aguardando qualidade,Não planejada,13.4
+2026-09-04,3º Turno,Linha A,Setup / Troca de produto,Planejada,17.5
+2026-09-04,3º Turno,Linha A,Aguardando qualidade,Não planejada,4.1
+2026-09-04,3º Turno,Linha A,Ajuste de processo,Não planejada,2.0
+2026-09-04,3º Turno,Linha B,Falta de material,Não planejada,5.5
+2026-09-04,3º Turno,Linha B,Falta de material,Não planejada,17.8
+2026-09-04,3º Turno,Linha B,Ajuste de processo,Não planejada,5.9
+2026-09-04,3º Turno,Linha B,Falta de material,Não planejada,31.3
+2026-09-04,3º Turno,Linha C,Setup / Troca de produto,Planejada,7.0
+2026-09-04,3º Turno,Linha C,Setup / Troca de produto,Planejada,16.8
+2026-09-04,3º Turno,Linha C,Setup / Troca de produto,Planejada,34.3
+2026-09-04,3º Turno,Linha C,Setup / Troca de produto,Planejada,12.3
+2026-09-05,1º Turno,Linha A,Quebra de máquina,Não planejada,49.3
+2026-09-05,1º Turno,Linha A,Quebra de máquina,Não planejada,17.5
+2026-09-05,1º Turno,Linha A,Ajuste de processo,Não planejada,16.0
+2026-09-05,1º Turno,Linha B,Ajuste de processo,Não planejada,30.7
+2026-09-05,1º Turno,Linha C,Falta de material,Não planejada,32.2
+2026-09-05,1º Turno,Linha C,Quebra de máquina,Não planejada,8.5
+2026-09-05,1º Turno,Linha C,Quebra de máquina,Não planejada,83.1
+2026-09-05,1º Turno,Linha C,Setup / Troca de produto,Planejada,37.1
+2026-09-05,1º Turno,Linha C,Ajuste de processo,Não planejada,9.0
+2026-09-05,2º Turno,Linha A,Quebra de máquina,Não planejada,28.6
+2026-09-05,2º Turno,Linha C,Setup / Troca de produto,Planejada,6.9
+2026-09-05,3º Turno,Linha A,Aguardando qualidade,Não planejada,5.3
+2026-09-05,3º Turno,Linha A,Limpeza / Manutenção,Planejada,5.4
+2026-09-05,3º Turno,Linha A,Ajuste de processo,Não planejada,25.5
+2026-09-05,3º Turno,Linha A,Setup / Troca de produto,Planejada,5.8
+2026-09-05,3º Turno,Linha B,Limpeza / Manutenção,Planejada,57.1
+2026-09-05,3º Turno,Linha B,Falta de material,Não planejada,19.4
+2026-09-05,3º Turno,Linha B,Setup / Troca de produto,Planejada,20.2
+2026-09-05,3º Turno,Linha C,Aguardando qualidade,Não planejada,2.7
+2026-09-05,3º Turno,Linha C,Limpeza / Manutenção,Planejada,19.6
+2026-09-05,3º Turno,Linha C,Setup / Troca de produto,Planejada,10.9
+2026-09-05,3º Turno,Linha C,Quebra de máquina,Não planejada,26.0
+2026-09-05,3º Turno,Linha C,Setup / Troca de produto,Planejada,42.6
+2026-09-05,3º Turno,Linha C,Limpeza / Manutenção,Planejada,13.6
+2026-09-05,3º Turno,Linha C,Ajuste de processo,Não planejada,4.4
+2026-09-06,1º Turno,Linha A,Setup / Troca de produto,Planejada,46.4
+2026-09-06,1º Turno,Linha A,Ajuste de processo,Não planejada,3.8
+2026-09-06,1º Turno,Linha A,Setup / Troca de produto,Planejada,20.1
+2026-09-06,1º Turno,Linha A,Quebra de máquina,Não planejada,105.3
+2026-09-06,1º Turno,Linha B,Quebra de máquina,Não planejada,29.4
+2026-09-06,1º Turno,Linha B,Quebra de máquina,Não planejada,15.2
+2026-09-06,1º Turno,Linha B,Limpeza / Manutenção,Planejada,19.0
+2026-09-06,1º Turno,Linha B,Limpeza / Manutenção,Planejada,19.1
+2026-09-06,1º Turno,Linha C,Ajuste de processo,Não planejada,3.7
+2026-09-06,1º Turno,Linha C,Falta de material,Não planejada,11.2
+2026-09-06,1º Turno,Linha C,Limpeza / Manutenção,Planejada,11.0
+2026-09-06,1º Turno,Linha C,Falta de material,Não planejada,14.3
+2026-09-06,1º Turno,Linha C,Setup / Troca de produto,Planejada,22.9
+2026-09-06,2º Turno,Linha A,Quebra de máquina,Não planejada,17.9
+2026-09-06,2º Turno,Linha A,Setup / Troca de produto,Planejada,5.5
+2026-09-06,2º Turno,Linha B,Limpeza / Manutenção,Planejada,9.1
+2026-09-06,2º Turno,Linha C,Quebra de máquina,Não planejada,103.7
+2026-09-06,3º Turno,Linha A,Setup / Troca de produto,Planejada,8.3
+2026-09-06,3º Turno,Linha A,Ajuste de processo,Não planejada,8.1
+2026-09-06,3º Turno,Linha A,Limpeza / Manutenção,Planejada,4.6
+2026-09-06,3º Turno,Linha B,Quebra de máquina,Não planejada,21.9
+2026-09-06,3º Turno,Linha B,Quebra de máquina,Não planejada,14.8
+2026-09-06,3º Turno,Linha B,Setup / Troca de produto,Planejada,14.9
+2026-09-06,3º Turno,Linha B,Quebra de máquina,Não planejada,15.6
+2026-09-06,3º Turno,Linha C,Setup / Troca de produto,Planejada,20.8
+2026-09-06,3º Turno,Linha C,Quebra de máquina,Não planejada,30.1
+2026-09-06,3º Turno,Linha C,Quebra de máquina,Não planejada,7.3
+2026-09-06,3º Turno,Linha C,Quebra de máquina,Não planejada,36.9
+2026-09-06,3º Turno,Linha C,Setup / Troca de produto,Planejada,20.9
+2026-09-07,1º Turno,Linha A,Quebra de máquina,Não planejada,25.2
+2026-09-07,1º Turno,Linha A,Setup / Troca de produto,Planejada,65.6
+2026-09-07,1º Turno,Linha A,Ajuste de processo,Não planejada,8.1
+2026-09-07,1º Turno,Linha A,Setup / Troca de produto,Planejada,21.0
+2026-09-07,1º Turno,Linha B,Limpeza / Manutenção,Planejada,12.6
+2026-09-07,1º Turno,Linha C,Setup / Troca de produto,Planejada,26.0
+2026-09-07,1º Turno,Linha C,Quebra de máquina,Não planejada,36.9
+2026-09-07,2º Turno,Linha A,Aguardando qualidade,Não planejada,10.0
+2026-09-07,2º Turno,Linha B,Aguardando qualidade,Não planejada,9.0
+2026-09-07,2º Turno,Linha C,Aguardando qualidade,Não planejada,4.0
+2026-09-07,2º Turno,Linha C,Ajuste de processo,Não planejada,21.8
+2026-09-07,3º Turno,Linha A,Quebra de máquina,Não planejada,55.1
+2026-09-07,3º Turno,Linha A,Setup / Troca de produto,Planejada,34.2
+2026-09-07,3º Turno,Linha A,Aguardando qualidade,Não planejada,9.7
+2026-09-07,3º Turno,Linha A,Setup / Troca de produto,Planejada,21.0
+2026-09-07,3º Turno,Linha B,Aguardando qualidade,Não planejada,17.7
+2026-09-07,3º Turno,Linha B,Setup / Troca de produto,Planejada,43.2
+2026-09-07,3º Turno,Linha B,Setup / Troca de produto,Planejada,18.1
+2026-09-07,3º Turno,Linha B,Ajuste de processo,Não planejada,23.3
+2026-09-07,3º Turno,Linha C,Setup / Troca de produto,Planejada,29.8
+2026-09-07,3º Turno,Linha C,Ajuste de processo,Não planejada,3.7
+2026-09-07,3º Turno,Linha C,Setup / Troca de produto,Planejada,67.0
+2026-09-08,1º Turno,Linha A,Quebra de máquina,Não planejada,12.0
+2026-09-08,1º Turno,Linha A,Falta de material,Não planejada,12.8
+2026-09-08,1º Turno,Linha A,Setup / Troca de produto,Planejada,36.3
+2026-09-08,1º Turno,Linha B,Setup / Troca de produto,Planejada,6.9
+2026-09-08,1º Turno,Linha B,Ajuste de processo,Não planejada,6.4
+2026-09-08,1º Turno,Linha B,Quebra de máquina,Não planejada,67.4
+2026-09-08,1º Turno,Linha C,Ajuste de processo,Não planejada,20.2
+2026-09-08,2º Turno,Linha A,Quebra de máquina,Não planejada,48.9
+2026-09-08,2º Turno,Linha B,Falta de material,Não planejada,9.6
+2026-09-08,2º Turno,Linha B,Limpeza / Manutenção,Planejada,2.8
+2026-09-08,2º Turno,Linha C,Falta de material,Não planejada,4.4
+2026-09-08,3º Turno,Linha A,Ajuste de processo,Não planejada,15.1
+2026-09-08,3º Turno,Linha A,Ajuste de processo,Não planejada,19.7
+2026-09-08,3º Turno,Linha B,Setup / Troca de produto,Planejada,31.2
+2026-09-08,3º Turno,Linha C,Limpeza / Manutenção,Planejada,18.1
+2026-09-08,3º Turno,Linha C,Aguardando qualidade,Não planejada,23.3
+2026-09-08,3º Turno,Linha C,Falta de material,Não planejada,57.5
+2026-09-09,1º Turno,Linha A,Falta de material,Não planejada,8.1
+2026-09-09,1º Turno,Linha B,Falta de material,Não planejada,3.0
+2026-09-09,1º Turno,Linha B,Setup / Troca de produto,Planejada,21.1
+2026-09-09,1º Turno,Linha B,Falta de material,Não planejada,5.7
+2026-09-09,1º Turno,Linha B,Ajuste de processo,Não planejada,15.4
+2026-09-09,1º Turno,Linha C,Setup / Troca de produto,Planejada,4.1
+2026-09-09,1º Turno,Linha C,Aguardando qualidade,Não planejada,19.6
+2026-09-09,1º Turno,Linha C,Ajuste de processo,Não planejada,10.6
+2026-09-09,1º Turno,Linha C,Ajuste de processo,Não planejada,10.0
+2026-09-09,1º Turno,Linha C,Quebra de máquina,Não planejada,11.8
+2026-09-09,2º Turno,Linha A,Quebra de máquina,Não planejada,9.0
+2026-09-09,2º Turno,Linha B,Falta de material,Não planejada,16.3
+2026-09-09,2º Turno,Linha B,Limpeza / Manutenção,Planejada,15.1
+2026-09-09,2º Turno,Linha B,Ajuste de processo,Não planejada,7.9
+2026-09-09,2º Turno,Linha C,Quebra de máquina,Não planejada,76.6
+2026-09-09,2º Turno,Linha C,Quebra de máquina,Não planejada,34.5
+2026-09-09,3º Turno,Linha A,Aguardando qualidade,Não planejada,7.3
+2026-09-09,3º Turno,Linha B,Quebra de máquina,Não planejada,30.0
+2026-09-09,3º Turno,Linha B,Quebra de máquina,Não planejada,9.8
+2026-09-09,3º Turno,Linha B,Quebra de máquina,Não planejada,41.4
+2026-09-09,3º Turno,Linha B,Setup / Troca de produto,Planejada,36.3
+2026-09-09,3º Turno,Linha B,Quebra de máquina,Não planejada,12.0
+2026-09-09,3º Turno,Linha B,Setup / Troca de produto,Planejada,31.5
+2026-09-09,3º Turno,Linha B,Ajuste de processo,Não planejada,7.4
+2026-09-09,3º Turno,Linha C,Falta de material,Não planejada,10.6
+2026-09-09,3º Turno,Linha C,Aguardando qualidade,Não planejada,3.9
+2026-09-09,3º Turno,Linha C,Setup / Troca de produto,Planejada,15.2
+2026-09-09,3º Turno,Linha C,Falta de material,Não planejada,9.1
+2026-09-10,1º Turno,Linha A,Aguardando qualidade,Não planejada,9.1
+2026-09-10,1º Turno,Linha A,Aguardando qualidade,Não planejada,5.0
+2026-09-10,1º Turno,Linha A,Setup / Troca de produto,Planejada,2.0
+2026-09-10,1º Turno,Linha A,Aguardando qualidade,Não planejada,13.7
+2026-09-10,1º Turno,Linha B,Setup / Troca de produto,Planejada,11.9
+2026-09-10,1º Turno,Linha B,Ajuste de processo,Não planejada,39.4
+2026-09-10,1º Turno,Linha B,Aguardando qualidade,Não planejada,19.6
+2026-09-10,1º Turno,Linha C,Ajuste de processo,Não planejada,6.1
+2026-09-10,1º Turno,Linha C,Ajuste de processo,Não planejada,2.0
+2026-09-10,1º Turno,Linha C,Ajuste de processo,Não planejada,2.5
+2026-09-10,2º Turno,Linha A,Setup / Troca de produto,Planejada,73.3
+2026-09-10,2º Turno,Linha A,Quebra de máquina,Não planejada,14.2
+2026-09-10,2º Turno,Linha A,Falta de material,Não planejada,9.8
+2026-09-10,2º Turno,Linha B,Quebra de máquina,Não planejada,72.9
+2026-09-10,2º Turno,Linha B,Falta de material,Não planejada,2.3
+2026-09-10,2º Turno,Linha B,Setup / Troca de produto,Planejada,78.2
+2026-09-10,2º Turno,Linha B,Setup / Troca de produto,Planejada,60.8
+2026-09-10,3º Turno,Linha A,Falta de material,Não planejada,5.2
+2026-09-10,3º Turno,Linha A,Falta de material,Não planejada,8.5
+2026-09-10,3º Turno,Linha B,Setup / Troca de produto,Planejada,26.7
+2026-09-10,3º Turno,Linha B,Falta de material,Não planejada,2.8
+2026-09-10,3º Turno,Linha B,Falta de material,Não planejada,26.2
+2026-09-10,3º Turno,Linha C,Setup / Troca de produto,Planejada,28.9
+2026-09-10,3º Turno,Linha C,Quebra de máquina,Não planejada,65.3
+2026-09-10,3º Turno,Linha C,Falta de material,Não planejada,15.5
+2026-09-10,3º Turno,Linha C,Setup / Troca de produto,Planejada,52.5
+2026-09-11,1º Turno,Linha C,Falta de material,Não planejada,18.3
+2026-09-11,1º Turno,Linha C,Aguardando qualidade,Não planejada,21.0
+2026-09-11,2º Turno,Linha A,Falta de material,Não planejada,21.7
+2026-09-11,2º Turno,Linha B,Ajuste de processo,Não planejada,6.4
+2026-09-11,3º Turno,Linha A,Ajuste de processo,Não planejada,13.5
+2026-09-11,3º Turno,Linha B,Setup / Troca de produto,Planejada,19.5
+2026-09-11,3º Turno,Linha B,Setup / Troca de produto,Planejada,50.6
+2026-09-11,3º Turno,Linha B,Quebra de máquina,Não planejada,26.6
+2026-09-11,3º Turno,Linha B,Ajuste de processo,Não planejada,2.0
+2026-09-11,3º Turno,Linha C,Falta de material,Não planejada,29.6
+2026-09-12,1º Turno,Linha A,Setup / Troca de produto,Planejada,5.7
+2026-09-12,1º Turno,Linha B,Setup / Troca de produto,Planejada,7.9
+2026-09-12,1º Turno,Linha C,Setup / Troca de produto,Planejada,16.2
+2026-09-12,1º Turno,Linha C,Falta de material,Não planejada,14.4
+2026-09-12,1º Turno,Linha C,Ajuste de processo,Não planejada,15.0
+2026-09-12,1º Turno,Linha C,Quebra de máquina,Não planejada,36.2
+2026-09-12,1º Turno,Linha C,Setup / Troca de produto,Planejada,14.4
+2026-09-12,1º Turno,Linha C,Ajuste de processo,Não planejada,22.6
+2026-09-12,1º Turno,Linha C,Ajuste de processo,Não planejada,4.7
+2026-09-12,2º Turno,Linha A,Setup / Troca de produto,Planejada,27.3
+2026-09-12,2º Turno,Linha A,Quebra de máquina,Não planejada,56.1
+2026-09-12,2º Turno,Linha A,Setup / Troca de produto,Planejada,17.5
+2026-09-12,2º Turno,Linha B,Setup / Troca de produto,Planejada,10.6
+2026-09-12,2º Turno,Linha B,Ajuste de processo,Não planejada,4.2
+2026-09-12,2º Turno,Linha B,Quebra de máquina,Não planejada,40.7
+2026-09-12,2º Turno,Linha C,Ajuste de processo,Não planejada,29.4
+2026-09-12,2º Turno,Linha C,Ajuste de processo,Não planejada,4.1
+2026-09-12,3º Turno,Linha A,Falta de material,Não planejada,15.9
+2026-09-12,3º Turno,Linha A,Setup / Troca de produto,Planejada,20.3
+2026-09-12,3º Turno,Linha A,Setup / Troca de produto,Planejada,26.1
+2026-09-12,3º Turno,Linha A,Setup / Troca de produto,Planejada,41.7
+2026-09-12,3º Turno,Linha B,Quebra de máquina,Não planejada,26.3
+2026-09-12,3º Turno,Linha B,Limpeza / Manutenção,Planejada,12.7
+2026-09-12,3º Turno,Linha B,Aguardando qualidade,Não planejada,7.2
+2026-09-12,3º Turno,Linha B,Setup / Troca de produto,Planejada,40.1
+2026-09-12,3º Turno,Linha B,Falta de material,Não planejada,12.9
+2026-09-12,3º Turno,Linha B,Falta de material,Não planejada,40.0
+2026-09-12,3º Turno,Linha B,Ajuste de processo,Não planejada,5.8
+2026-09-12,3º Turno,Linha B,Setup / Troca de produto,Planejada,37.4
+2026-09-12,3º Turno,Linha B,Falta de material,Não planejada,27.7
+2026-09-12,3º Turno,Linha C,Falta de material,Não planejada,10.3
+2026-09-12,3º Turno,Linha C,Limpeza / Manutenção,Planejada,32.8
+2026-09-13,1º Turno,Linha A,Falta de material,Não planejada,11.1
+2026-09-13,1º Turno,Linha A,Quebra de máquina,Não planejada,45.0
+2026-09-13,1º Turno,Linha A,Limpeza / Manutenção,Planejada,11.6
+2026-09-13,1º Turno,Linha B,Ajuste de processo,Não planejada,21.5
+2026-09-13,1º Turno,Linha B,Setup / Troca de produto,Planejada,2.0
+2026-09-13,1º Turno,Linha B,Falta de material,Não planejada,17.7
+2026-09-13,1º Turno,Linha C,Setup / Troca de produto,Planejada,14.6
+2026-09-13,1º Turno,Linha C,Quebra de máquina,Não planejada,12.6
+2026-09-13,2º Turno,Linha A,Quebra de máquina,Não planejada,65.6
+2026-09-13,2º Turno,Linha A,Setup / Troca de produto,Planejada,7.6
+2026-09-13,2º Turno,Linha B,Setup / Troca de produto,Planejada,15.0
+2026-09-13,2º Turno,Linha B,Quebra de máquina,Não planejada,64.7
+2026-09-13,2º Turno,Linha C,Falta de material,Não planejada,20.0
+2026-09-13,2º Turno,Linha C,Aguardando qualidade,Não planejada,13.7
+2026-09-13,2º Turno,Linha C,Setup / Troca de produto,Planejada,29.6
+2026-09-13,2º Turno,Linha C,Aguardando qualidade,Não planejada,8.2
+2026-09-13,3º Turno,Linha A,Ajuste de processo,Não planejada,6.3
+2026-09-13,3º Turno,Linha B,Ajuste de processo,Não planejada,9.8
+2026-09-13,3º Turno,Linha B,Setup / Troca de produto,Planejada,23.3
+2026-09-13,3º Turno,Linha B,Falta de material,Não planejada,27.4
+2026-09-13,3º Turno,Linha B,Falta de material,Não planejada,34.0
+2026-09-13,3º Turno,Linha C,Quebra de máquina,Não planejada,35.8
+2026-09-13,3º Turno,Linha C,Aguardando qualidade,Não planejada,5.5
+2026-09-14,1º Turno,Linha A,Aguardando qualidade,Não planejada,10.4
+2026-09-14,1º Turno,Linha A,Limpeza / Manutenção,Planejada,17.2
+2026-09-14,1º Turno,Linha A,Quebra de máquina,Não planejada,22.4
+2026-09-14,1º Turno,Linha A,Limpeza / Manutenção,Planejada,9.4
+2026-09-14,1º Turno,Linha C,Ajuste de processo,Não planejada,7.5
+2026-09-14,2º Turno,Linha A,Ajuste de processo,Não planejada,14.3
+2026-09-14,2º Turno,Linha A,Aguardando qualidade,Não planejada,11.4
+2026-09-14,2º Turno,Linha A,Ajuste de processo,Não planejada,6.9
+2026-09-14,2º Turno,Linha A,Limpeza / Manutenção,Planejada,10.9
+2026-09-14,2º Turno,Linha B,Aguardando qualidade,Não planejada,13.7
+2026-09-14,2º Turno,Linha B,Setup / Troca de produto,Planejada,4.3
+2026-09-14,2º Turno,Linha B,Quebra de máquina,Não planejada,74.9
+2026-09-14,2º Turno,Linha C,Falta de material,Não planejada,9.3
+2026-09-14,2º Turno,Linha C,Limpeza / Manutenção,Planejada,26.5
+2026-09-14,2º Turno,Linha C,Aguardando qualidade,Não planejada,11.1
+2026-09-14,3º Turno,Linha A,Quebra de máquina,Não planejada,56.1
+2026-09-14,3º Turno,Linha A,Quebra de máquina,Não planejada,79.1
+2026-09-14,3º Turno,Linha A,Ajuste de processo,Não planejada,3.5
+2026-09-14,3º Turno,Linha B,Quebra de máquina,Não planejada,75.6
+2026-09-15,1º Turno,Linha A,Setup / Troca de produto,Planejada,9.4
+2026-09-15,1º Turno,Linha A,Falta de material,Não planejada,47.0
+2026-09-15,1º Turno,Linha A,Falta de material,Não planejada,46.1
+2026-09-15,1º Turno,Linha A,Falta de material,Não planejada,25.0
+2026-09-15,1º Turno,Linha B,Limpeza / Manutenção,Planejada,11.5
+2026-09-15,1º Turno,Linha C,Falta de material,Não planejada,2.0
+2026-09-15,1º Turno,Linha C,Falta de material,Não planejada,26.0
+2026-09-15,1º Turno,Linha C,Quebra de máquina,Não planejada,42.4
+2026-09-15,2º Turno,Linha A,Ajuste de processo,Não planejada,15.5
+2026-09-15,2º Turno,Linha A,Setup / Troca de produto,Planejada,7.9
+2026-09-15,2º Turno,Linha B,Aguardando qualidade,Não planejada,2.1
+2026-09-15,2º Turno,Linha C,Setup / Troca de produto,Planejada,7.9
+2026-09-15,2º Turno,Linha C,Falta de material,Não planejada,32.2
+2026-09-15,3º Turno,Linha A,Quebra de máquina,Não planejada,63.7
+2026-09-15,3º Turno,Linha B,Setup / Troca de produto,Planejada,47.6
+2026-09-15,3º Turno,Linha B,Ajuste de processo,Não planejada,8.5
+2026-09-15,3º Turno,Linha B,Aguardando qualidade,Não planejada,2.0
+2026-09-16,1º Turno,Linha A,Ajuste de processo,Não planejada,2.0
+2026-09-16,1º Turno,Linha A,Falta de material,Não planejada,17.4
+2026-09-16,1º Turno,Linha A,Setup / Troca de produto,Planejada,30.6
+2026-09-16,1º Turno,Linha A,Quebra de máquina,Não planejada,2.2
+2026-09-16,1º Turno,Linha A,Aguardando qualidade,Não planejada,14.1
+2026-09-16,1º Turno,Linha A,Setup / Troca de produto,Planejada,59.8
+2026-09-16,1º Turno,Linha B,Setup / Troca de produto,Planejada,25.2
+2026-09-16,1º Turno,Linha B,Aguardando qualidade,Não planejada,41.3
+2026-09-16,1º Turno,Linha B,Setup / Troca de produto,Planejada,2.0
+2026-09-16,2º Turno,Linha A,Ajuste de processo,Não planejada,13.5
+2026-09-16,2º Turno,Linha A,Setup / Troca de produto,Planejada,32.2
+2026-09-16,2º Turno,Linha A,Ajuste de processo,Não planejada,14.6
+2026-09-16,2º Turno,Linha C,Limpeza / Manutenção,Planejada,31.0
+2026-09-16,2º Turno,Linha C,Ajuste de processo,Não planejada,15.0
+2026-09-16,2º Turno,Linha C,Setup / Troca de produto,Planejada,15.2
+2026-09-16,3º Turno,Linha A,Ajuste de processo,Não planejada,14.1
+2026-09-16,3º Turno,Linha A,Aguardando qualidade,Não planejada,28.8
+2026-09-16,3º Turno,Linha A,Ajuste de processo,Não planejada,15.8
+2026-09-16,3º Turno,Linha A,Falta de material,Não planejada,20.5
+2026-09-16,3º Turno,Linha B,Setup / Troca de produto,Planejada,48.2
+2026-09-16,3º Turno,Linha B,Quebra de máquina,Não planejada,11.0
+2026-09-16,3º Turno,Linha B,Limpeza / Manutenção,Planejada,7.0
+2026-09-16,3º Turno,Linha B,Setup / Troca de produto,Planejada,18.6
+2026-09-16,3º Turno,Linha B,Aguardando qualidade,Não planejada,10.8
+2026-09-16,3º Turno,Linha C,Falta de material,Não planejada,4.1
+2026-09-16,3º Turno,Linha C,Setup / Troca de produto,Planejada,16.2
+2026-09-17,1º Turno,Linha A,Ajuste de processo,Não planejada,11.4
+2026-09-17,1º Turno,Linha A,Ajuste de processo,Não planejada,17.9
+2026-09-17,1º Turno,Linha A,Falta de material,Não planejada,28.7
+2026-09-17,1º Turno,Linha A,Falta de material,Não planejada,7.3
+2026-09-17,1º Turno,Linha B,Setup / Troca de produto,Planejada,22.7
+2026-09-17,1º Turno,Linha B,Setup / Troca de produto,Planejada,25.0
+2026-09-17,1º Turno,Linha C,Ajuste de processo,Não planejada,9.2
+2026-09-17,2º Turno,Linha A,Quebra de máquina,Não planejada,12.6
+2026-09-17,2º Turno,Linha A,Falta de material,Não planejada,16.1
+2026-09-17,2º Turno,Linha A,Ajuste de processo,Não planejada,13.6
+2026-09-17,2º Turno,Linha A,Ajuste de processo,Não planejada,10.9
+2026-09-17,2º Turno,Linha B,Quebra de máquina,Não planejada,41.1
+2026-09-17,2º Turno,Linha B,Quebra de máquina,Não planejada,63.0
+2026-09-17,2º Turno,Linha B,Falta de material,Não planejada,13.4
+2026-09-17,3º Turno,Linha A,Limpeza / Manutenção,Planejada,6.4
+2026-09-17,3º Turno,Linha A,Ajuste de processo,Não planejada,5.9
+2026-09-17,3º Turno,Linha A,Falta de material,Não planejada,9.5
+2026-09-17,3º Turno,Linha A,Falta de material,Não planejada,15.1
+2026-09-17,3º Turno,Linha B,Quebra de máquina,Não planejada,12.4
+2026-09-17,3º Turno,Linha B,Aguardando qualidade,Não planejada,5.7
+2026-09-17,3º Turno,Linha B,Falta de material,Não planejada,32.6
+2026-09-17,3º Turno,Linha B,Ajuste de processo,Não planejada,9.6
+2026-09-17,3º Turno,Linha C,Ajuste de processo,Não planejada,6.6
+2026-09-17,3º Turno,Linha C,Ajuste de processo,Não planejada,11.7
+2026-09-17,3º Turno,Linha C,Falta de material,Não planejada,7.7
+2026-09-18,1º Turno,Linha A,Setup / Troca de produto,Planejada,23.4
+2026-09-18,1º Turno,Linha A,Ajuste de processo,Não planejada,8.8
+2026-09-18,1º Turno,Linha B,Quebra de máquina,Não planejada,25.7
+2026-09-18,1º Turno,Linha B,Setup / Troca de produto,Planejada,53.1
+2026-09-18,1º Turno,Linha B,Falta de material,Não planejada,24.3
+2026-09-18,2º Turno,Linha A,Aguardando qualidade,Não planejada,8.0
+2026-09-18,2º Turno,Linha A,Quebra de máquina,Não planejada,27.5
+2026-09-18,2º Turno,Linha A,Aguardando qualidade,Não planejada,11.4
+2026-09-18,2º Turno,Linha B,Setup / Troca de produto,Planejada,7.1
+2026-09-18,2º Turno,Linha C,Falta de material,Não planejada,15.0
+2026-09-18,2º Turno,Linha C,Setup / Troca de produto,Planejada,4.2
+2026-09-18,2º Turno,Linha C,Falta de material,Não planejada,19.4
+2026-09-18,3º Turno,Linha A,Aguardando qualidade,Não planejada,8.6
+2026-09-18,3º Turno,Linha A,Falta de material,Não planejada,10.7
+2026-09-18,3º Turno,Linha A,Falta de material,Não planejada,7.5
+2026-09-18,3º Turno,Linha A,Quebra de máquina,Não planejada,49.1
+2026-09-18,3º Turno,Linha B,Setup / Troca de produto,Planejada,38.6
+2026-09-18,3º Turno,Linha B,Falta de material,Não planejada,16.9
+2026-09-18,3º Turno,Linha B,Ajuste de processo,Não planejada,11.2
+2026-09-18,3º Turno,Linha B,Aguardando qualidade,Não planejada,2.0
+2026-09-19,1º Turno,Linha A,Setup / Troca de produto,Planejada,23.5
+2026-09-19,1º Turno,Linha A,Falta de material,Não planejada,42.1
+2026-09-19,1º Turno,Linha A,Setup / Troca de produto,Planejada,26.1
+2026-09-19,1º Turno,Linha B,Falta de material,Não planejada,11.2
+2026-09-19,1º Turno,Linha C,Setup / Troca de produto,Planejada,56.8
+2026-09-19,2º Turno,Linha A,Ajuste de processo,Não planejada,13.4
+2026-09-19,2º Turno,Linha A,Falta de material,Não planejada,51.8
+2026-09-19,2º Turno,Linha B,Ajuste de processo,Não planejada,12.2
+2026-09-19,2º Turno,Linha B,Aguardando qualidade,Não planejada,7.9
+2026-09-19,2º Turno,Linha B,Aguardando qualidade,Não planejada,2.0
+2026-09-19,2º Turno,Linha C,Quebra de máquina,Não planejada,28.8
+2026-09-19,3º Turno,Linha A,Aguardando qualidade,Não planejada,11.3
+2026-09-19,3º Turno,Linha A,Aguardando qualidade,Não planejada,29.7
+2026-09-19,3º Turno,Linha A,Falta de material,Não planejada,12.7
+2026-09-19,3º Turno,Linha A,Limpeza / Manutenção,Planejada,20.7
+2026-09-19,3º Turno,Linha A,Ajuste de processo,Não planejada,7.7
+2026-09-19,3º Turno,Linha A,Setup / Troca de produto,Planejada,7.9
+2026-09-19,3º Turno,Linha B,Ajuste de processo,Não planejada,3.4
+2026-09-19,3º Turno,Linha B,Quebra de máquina,Não planejada,14.8
+2026-09-19,3º Turno,Linha B,Quebra de máquina,Não planejada,57.8
+2026-09-19,3º Turno,Linha B,Quebra de máquina,Não planejada,7.3
+2026-09-19,3º Turno,Linha C,Setup / Troca de produto,Planejada,54.0
+2026-09-19,3º Turno,Linha C,Quebra de máquina,Não planejada,20.6
+2026-09-19,3º Turno,Linha C,Setup / Troca de produto,Planejada,66.9
+2026-09-19,3º Turno,Linha C,Setup / Troca de produto,Planejada,25.7
+2026-09-19,3º Turno,Linha C,Limpeza / Manutenção,Planejada,40.1
+2026-09-19,3º Turno,Linha C,Quebra de máquina,Não planejada,15.3
+2026-09-19,3º Turno,Linha C,Setup / Troca de produto,Planejada,9.1
+2026-09-20,1º Turno,Linha A,Setup / Troca de produto,Planejada,18.9
+2026-09-20,1º Turno,Linha B,Falta de material,Não planejada,16.3
+2026-09-20,1º Turno,Linha B,Limpeza / Manutenção,Planejada,10.2
+2026-09-20,1º Turno,Linha B,Aguardando qualidade,Não planejada,3.2
+2026-09-20,1º Turno,Linha B,Falta de material,Não planejada,4.8
+2026-09-20,1º Turno,Linha B,Quebra de máquina,Não planejada,55.7
+2026-09-20,1º Turno,Linha B,Quebra de máquina,Não planejada,28.4
+2026-09-20,1º Turno,Linha B,Setup / Troca de produto,Planejada,9.0
+2026-09-20,1º Turno,Linha C,Falta de material,Não planejada,9.3
+2026-09-20,1º Turno,Linha C,Ajuste de processo,Não planejada,15.8
+2026-09-20,1º Turno,Linha C,Limpeza / Manutenção,Planejada,11.8
+2026-09-20,2º Turno,Linha B,Setup / Troca de produto,Planejada,21.3
+2026-09-20,2º Turno,Linha B,Ajuste de processo,Não planejada,13.5
+2026-09-20,2º Turno,Linha C,Quebra de máquina,Não planejada,5.5
+2026-09-20,2º Turno,Linha C,Falta de material,Não planejada,23.1
+2026-09-20,3º Turno,Linha A,Setup / Troca de produto,Planejada,25.6
+2026-09-20,3º Turno,Linha A,Setup / Troca de produto,Planejada,23.4
+2026-09-20,3º Turno,Linha A,Aguardando qualidade,Não planejada,2.0
+2026-09-20,3º Turno,Linha A,Setup / Troca de produto,Planejada,19.1
+2026-09-20,3º Turno,Linha B,Quebra de máquina,Não planejada,46.2
+2026-09-20,3º Turno,Linha C,Quebra de máquina,Não planejada,31.5
+2026-09-20,3º Turno,Linha C,Quebra de máquina,Não planejada,30.5
+2026-09-20,3º Turno,Linha C,Aguardando qualidade,Não planejada,4.6
+2026-09-21,1º Turno,Linha A,Setup / Troca de produto,Planejada,41.9
+2026-09-21,1º Turno,Linha A,Falta de material,Não planejada,16.3
+2026-09-21,1º Turno,Linha A,Setup / Troca de produto,Planejada,49.8
+2026-09-21,1º Turno,Linha A,Limpeza / Manutenção,Planejada,10.9
+2026-09-21,1º Turno,Linha A,Falta de material,Não planejada,26.0
+2026-09-21,1º Turno,Linha B,Falta de material,Não planejada,9.5
+2026-09-21,1º Turno,Linha B,Quebra de máquina,Não planejada,41.2
+2026-09-21,1º Turno,Linha C,Setup / Troca de produto,Planejada,39.2
+2026-09-21,2º Turno,Linha A,Setup / Troca de produto,Planejada,15.2
+2026-09-21,2º Turno,Linha B,Limpeza / Manutenção,Planejada,21.7
+2026-09-21,2º Turno,Linha B,Setup / Troca de produto,Planejada,6.9
+2026-09-21,2º Turno,Linha B,Limpeza / Manutenção,Planejada,18.6
+2026-09-21,2º Turno,Linha C,Aguardando qualidade,Não planejada,19.2
+2026-09-21,2º Turno,Linha C,Setup / Troca de produto,Planejada,18.7
+2026-09-21,2º Turno,Linha C,Limpeza / Manutenção,Planejada,15.3
+2026-09-21,2º Turno,Linha C,Ajuste de processo,Não planejada,16.0
+2026-09-21,3º Turno,Linha A,Limpeza / Manutenção,Planejada,31.0
+2026-09-21,3º Turno,Linha A,Limpeza / Manutenção,Planejada,12.7
+2026-09-21,3º Turno,Linha A,Quebra de máquina,Não planejada,5.1
+2026-09-21,3º Turno,Linha A,Setup / Troca de produto,Planejada,18.3
+2026-09-21,3º Turno,Linha A,Falta de material,Não planejada,30.7
+2026-09-21,3º Turno,Linha B,Ajuste de processo,Não planejada,9.5
+2026-09-21,3º Turno,Linha C,Quebra de máquina,Não planejada,24.7
+2026-09-21,3º Turno,Linha C,Aguardando qualidade,Não planejada,2.0
+2026-09-21,3º Turno,Linha C,Falta de material,Não planejada,12.6
+2026-09-22,1º Turno,Linha A,Aguardando qualidade,Não planejada,4.1
+2026-09-22,1º Turno,Linha A,Ajuste de processo,Não planejada,6.4
+2026-09-22,1º Turno,Linha B,Setup / Troca de produto,Planejada,7.5
+2026-09-22,1º Turno,Linha B,Setup / Troca de produto,Planejada,5.4
+2026-09-22,1º Turno,Linha C,Aguardando qualidade,Não planejada,2.7
+2026-09-22,2º Turno,Linha A,Setup / Troca de produto,Planejada,32.3
+2026-09-22,2º Turno,Linha B,Quebra de máquina,Não planejada,59.2
+2026-09-22,2º Turno,Linha B,Setup / Troca de produto,Planejada,49.5
+2026-09-22,2º Turno,Linha B,Quebra de máquina,Não planejada,23.0
+2026-09-22,2º Turno,Linha B,Falta de material,Não planejada,2.0
+2026-09-22,2º Turno,Linha B,Setup / Troca de produto,Planejada,15.8
+2026-09-22,2º Turno,Linha C,Ajuste de processo,Não planejada,9.1
+2026-09-22,2º Turno,Linha C,Setup / Troca de produto,Planejada,13.5
+2026-09-22,3º Turno,Linha A,Quebra de máquina,Não planejada,49.2
+2026-09-22,3º Turno,Linha A,Setup / Troca de produto,Planejada,22.0
+2026-09-22,3º Turno,Linha B,Aguardando qualidade,Não planejada,15.5
+2026-09-22,3º Turno,Linha B,Falta de material,Não planejada,11.0
+2026-09-22,3º Turno,Linha B,Setup / Troca de produto,Planejada,4.4
+2026-09-22,3º Turno,Linha B,Quebra de máquina,Não planejada,5.2
+2026-09-22,3º Turno,Linha C,Setup / Troca de produto,Planejada,8.8
+2026-09-23,1º Turno,Linha B,Falta de material,Não planejada,10.4
+2026-09-23,1º Turno,Linha B,Aguardando qualidade,Não planejada,2.2
+2026-09-23,1º Turno,Linha B,Falta de material,Não planejada,15.9
+2026-09-23,1º Turno,Linha B,Limpeza / Manutenção,Planejada,10.2
+2026-09-23,1º Turno,Linha C,Setup / Troca de produto,Planejada,30.2
+2026-09-23,1º Turno,Linha C,Limpeza / Manutenção,Planejada,18.8
+2026-09-23,1º Turno,Linha C,Setup / Troca de produto,Planejada,4.4
+2026-09-23,2º Turno,Linha A,Aguardando qualidade,Não planejada,9.1
+2026-09-23,2º Turno,Linha A,Aguardando qualidade,Não planejada,11.3
+2026-09-23,2º Turno,Linha A,Limpeza / Manutenção,Planejada,14.9
+2026-09-23,2º Turno,Linha B,Quebra de máquina,Não planejada,104.7
+2026-09-23,2º Turno,Linha B,Quebra de máquina,Não planejada,24.4
+2026-09-23,2º Turno,Linha B,Falta de material,Não planejada,9.3
+2026-09-23,2º Turno,Linha C,Quebra de máquina,Não planejada,30.9
+2026-09-23,3º Turno,Linha A,Limpeza / Manutenção,Planejada,15.1
+2026-09-23,3º Turno,Linha A,Ajuste de processo,Não planejada,9.3
+2026-09-23,3º Turno,Linha B,Falta de material,Não planejada,8.3
+2026-09-23,3º Turno,Linha C,Quebra de máquina,Não planejada,95.8
+2026-09-23,3º Turno,Linha C,Falta de material,Não planejada,22.6
+2026-09-23,3º Turno,Linha C,Ajuste de processo,Não planejada,7.5
+2026-09-24,1º Turno,Linha A,Limpeza / Manutenção,Planejada,14.9
+2026-09-24,1º Turno,Linha A,Falta de material,Não planejada,26.1
+2026-09-24,1º Turno,Linha B,Ajuste de processo,Não planejada,12.4
+2026-09-24,1º Turno,Linha C,Setup / Troca de produto,Planejada,47.7
+2026-09-24,2º Turno,Linha A,Quebra de máquina,Não planejada,4.7
+2026-09-24,2º Turno,Linha A,Aguardando qualidade,Não planejada,13.3
+2026-09-24,2º Turno,Linha B,Falta de material,Não planejada,13.1
+2026-09-24,2º Turno,Linha B,Quebra de máquina,Não planejada,15.2
+2026-09-24,2º Turno,Linha B,Quebra de máquina,Não planejada,28.7
+2026-09-24,2º Turno,Linha B,Ajuste de processo,Não planejada,22.8
+2026-09-24,2º Turno,Linha C,Setup / Troca de produto,Planejada,13.7
+2026-09-24,2º Turno,Linha C,Falta de material,Não planejada,16.0
+2026-09-24,2º Turno,Linha C,Quebra de máquina,Não planejada,33.3
+2026-09-24,2º Turno,Linha C,Limpeza / Manutenção,Planejada,23.4
+2026-09-24,2º Turno,Linha C,Quebra de máquina,Não planejada,52.2
+2026-09-24,2º Turno,Linha C,Setup / Troca de produto,Planejada,4.9
+2026-09-24,2º Turno,Linha C,Ajuste de processo,Não planejada,18.3
+2026-09-24,3º Turno,Linha A,Limpeza / Manutenção,Planejada,17.0
+2026-09-24,3º Turno,Linha A,Aguardando qualidade,Não planejada,19.3
+2026-09-24,3º Turno,Linha A,Setup / Troca de produto,Planejada,4.8
+2026-09-24,3º Turno,Linha A,Quebra de máquina,Não planejada,37.0
+2026-09-24,3º Turno,Linha A,Ajuste de processo,Não planejada,36.5
+2026-09-24,3º Turno,Linha B,Ajuste de processo,Não planejada,27.3
+2026-09-24,3º Turno,Linha B,Aguardando qualidade,Não planejada,6.2
+2026-09-24,3º Turno,Linha C,Limpeza / Manutenção,Planejada,10.7
+2026-09-25,1º Turno,Linha A,Ajuste de processo,Não planejada,12.9
+2026-09-25,1º Turno,Linha A,Aguardando qualidade,Não planejada,11.3
+2026-09-25,1º Turno,Linha A,Falta de material,Não planejada,7.8
+2026-09-25,1º Turno,Linha B,Setup / Troca de produto,Planejada,3.8
+2026-09-25,1º Turno,Linha C,Limpeza / Manutenção,Planejada,13.8
+2026-09-25,1º Turno,Linha C,Falta de material,Não planejada,37.4
+2026-09-25,1º Turno,Linha C,Setup / Troca de produto,Planejada,10.3
+2026-09-25,1º Turno,Linha C,Limpeza / Manutenção,Planejada,14.6
+2026-09-25,2º Turno,Linha A,Quebra de máquina,Não planejada,11.6
+2026-09-25,2º Turno,Linha A,Aguardando qualidade,Não planejada,10.4
+2026-09-25,2º Turno,Linha A,Quebra de máquina,Não planejada,8.1
+2026-09-25,2º Turno,Linha B,Ajuste de processo,Não planejada,17.8
+2026-09-25,2º Turno,Linha B,Falta de material,Não planejada,20.4
+2026-09-25,2º Turno,Linha B,Ajuste de processo,Não planejada,20.3
+2026-09-25,3º Turno,Linha A,Setup / Troca de produto,Planejada,8.2
+2026-09-25,3º Turno,Linha A,Ajuste de processo,Não planejada,4.1
+2026-09-25,3º Turno,Linha A,Falta de material,Não planejada,18.1
+2026-09-25,3º Turno,Linha A,Falta de material,Não planejada,17.4
+2026-09-25,3º Turno,Linha B,Ajuste de processo,Não planejada,20.2
+2026-09-25,3º Turno,Linha B,Falta de material,Não planejada,17.6
+2026-09-25,3º Turno,Linha B,Setup / Troca de produto,Planejada,28.8
+2026-09-25,3º Turno,Linha C,Setup / Troca de produto,Planejada,9.9
+2026-09-25,3º Turno,Linha C,Quebra de máquina,Não planejada,30.1
+2026-09-26,1º Turno,Linha A,Setup / Troca de produto,Planejada,15.8
+2026-09-26,1º Turno,Linha A,Setup / Troca de produto,Planejada,15.4
+2026-09-26,1º Turno,Linha A,Falta de material,Não planejada,19.2
+2026-09-26,1º Turno,Linha B,Falta de material,Não planejada,10.9
+2026-09-26,1º Turno,Linha C,Aguardando qualidade,Não planejada,2.9
+2026-09-26,1º Turno,Linha C,Setup / Troca de produto,Planejada,2.0
+2026-09-26,1º Turno,Linha C,Setup / Troca de produto,Planejada,19.2
+2026-09-26,1º Turno,Linha C,Limpeza / Manutenção,Planejada,11.0
+2026-09-26,2º Turno,Linha A,Quebra de máquina,Não planejada,29.6
+2026-09-26,2º Turno,Linha B,Setup / Troca de produto,Planejada,32.1
+2026-09-26,2º Turno,Linha B,Setup / Troca de produto,Planejada,4.5
+2026-09-26,2º Turno,Linha B,Limpeza / Manutenção,Planejada,13.3
+2026-09-26,2º Turno,Linha C,Ajuste de processo,Não planejada,6.8
+2026-09-26,2º Turno,Linha C,Falta de material,Não planejada,14.4
+2026-09-26,2º Turno,Linha C,Aguardando qualidade,Não planejada,8.5
+2026-09-26,3º Turno,Linha A,Quebra de máquina,Não planejada,51.3
+2026-09-26,3º Turno,Linha A,Falta de material,Não planejada,22.6
+2026-09-26,3º Turno,Linha A,Falta de material,Não planejada,20.6
+2026-09-26,3º Turno,Linha A,Ajuste de processo,Não planejada,13.8
+2026-09-26,3º Turno,Linha A,Setup / Troca de produto,Planejada,15.4
+2026-09-26,3º Turno,Linha A,Setup / Troca de produto,Planejada,50.3
+2026-09-26,3º Turno,Linha B,Falta de material,Não planejada,11.4
+2026-09-26,3º Turno,Linha B,Aguardando qualidade,Não planejada,5.9
+2026-09-26,3º Turno,Linha C,Ajuste de processo,Não planejada,15.0
+2026-09-27,1º Turno,Linha A,Ajuste de processo,Não planejada,16.1
+2026-09-27,1º Turno,Linha A,Falta de material,Não planejada,9.1
+2026-09-27,1º Turno,Linha A,Falta de material,Não planejada,9.7
+2026-09-27,1º Turno,Linha A,Aguardando qualidade,Não planejada,11.9
+2026-09-27,1º Turno,Linha C,Falta de material,Não planejada,11.3
+2026-09-27,1º Turno,Linha C,Limpeza / Manutenção,Planejada,26.2
+2026-09-27,1º Turno,Linha C,Falta de material,Não planejada,11.2
+2026-09-27,2º Turno,Linha A,Setup / Troca de produto,Planejada,12.7
+2026-09-27,2º Turno,Linha A,Falta de material,Não planejada,4.0
+2026-09-27,2º Turno,Linha A,Ajuste de processo,Não planejada,28.1
+2026-09-27,2º Turno,Linha C,Falta de material,Não planejada,8.8
+2026-09-27,2º Turno,Linha C,Ajuste de processo,Não planejada,9.3
+2026-09-27,2º Turno,Linha C,Ajuste de processo,Não planejada,20.3
+2026-09-27,3º Turno,Linha A,Limpeza / Manutenção,Planejada,11.3
+2026-09-27,3º Turno,Linha A,Quebra de máquina,Não planejada,39.2
+2026-09-27,3º Turno,Linha A,Aguardando qualidade,Não planejada,5.0
+2026-09-27,3º Turno,Linha B,Setup / Troca de produto,Planejada,79.5
+2026-09-27,3º Turno,Linha B,Setup / Troca de produto,Planejada,13.1
+2026-09-27,3º Turno,Linha B,Falta de material,Não planejada,17.0
+2026-09-27,3º Turno,Linha C,Quebra de máquina,Não planejada,6.1
+2026-09-27,3º Turno,Linha C,Quebra de máquina,Não planejada,7.2
+2026-09-27,3º Turno,Linha C,Quebra de máquina,Não planejada,69.9
+2026-09-27,3º Turno,Linha C,Quebra de máquina,Não planejada,36.5
+2026-09-27,3º Turno,Linha C,Ajuste de processo,Não planejada,16.8
+2026-09-27,3º Turno,Linha C,Setup / Troca de produto,Planejada,17.9
+2026-09-28,1º Turno,Linha B,Ajuste de processo,Não planejada,15.6
+2026-09-28,1º Turno,Linha B,Falta de material,Não planejada,15.0
+2026-09-28,1º Turno,Linha C,Aguardando qualidade,Não planejada,4.2
+2026-09-28,1º Turno,Linha C,Ajuste de processo,Não planejada,5.4
+2026-09-28,1º Turno,Linha C,Falta de material,Não planejada,14.8
+2026-09-28,1º Turno,Linha C,Ajuste de processo,Não planejada,8.3
+2026-09-28,1º Turno,Linha C,Ajuste de processo,Não planejada,19.0
+2026-09-28,1º Turno,Linha C,Aguardando qualidade,Não planejada,20.3
+2026-09-28,1º Turno,Linha C,Ajuste de processo,Não planejada,20.4
+2026-09-28,2º Turno,Linha A,Ajuste de processo,Não planejada,12.5
+2026-09-28,2º Turno,Linha A,Setup / Troca de produto,Planejada,29.4
+2026-09-28,2º Turno,Linha B,Ajuste de processo,Não planejada,30.3
+2026-09-28,2º Turno,Linha B,Falta de material,Não planejada,37.5
+2026-09-28,2º Turno,Linha B,Ajuste de processo,Não planejada,10.4
+2026-09-28,2º Turno,Linha B,Ajuste de processo,Não planejada,15.3
+2026-09-28,2º Turno,Linha B,Ajuste de processo,Não planejada,8.7
+2026-09-28,2º Turno,Linha B,Limpeza / Manutenção,Planejada,18.0
+2026-09-28,2º Turno,Linha C,Falta de material,Não planejada,35.1
+2026-09-28,2º Turno,Linha C,Aguardando qualidade,Não planejada,11.9
+2026-09-28,3º Turno,Linha A,Quebra de máquina,Não planejada,32.7
+2026-09-28,3º Turno,Linha A,Setup / Troca de produto,Planejada,8.9
+2026-09-28,3º Turno,Linha A,Falta de material,Não planejada,9.5
+2026-09-28,3º Turno,Linha B,Setup / Troca de produto,Planejada,51.0
+2026-09-28,3º Turno,Linha B,Ajuste de processo,Não planejada,8.8
+2026-09-28,3º Turno,Linha B,Setup / Troca de produto,Planejada,28.0
+2026-09-28,3º Turno,Linha B,Falta de material,Não planejada,21.8
+2026-09-28,3º Turno,Linha C,Setup / Troca de produto,Planejada,6.6
+2026-09-28,3º Turno,Linha C,Falta de material,Não planejada,26.2
+2026-09-28,3º Turno,Linha C,Quebra de máquina,Não planejada,55.2
