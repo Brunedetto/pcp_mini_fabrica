@@ -9,8 +9,8 @@ de ponta a ponta, os principais conceitos de Planejamento e Controle da Produç�
 ## Módulos
 | # | Módulo | Status |
 |---|--------|--------|
-| 1 | OEE e Pareto de paradas | Em andamento |
-| 2 | MRP (necessidade de materiais) | A fazer |
+| 1 | OEE e Pareto de paradas | Concluido |
+| 2 | MRP (necessidade de materiais) | Em Andamento |
 | 3 | MPS, lead time e capacidade (gargalo) | A fazer |
 | 4 | Kanban e plano vs. realizado | A fazer |
 
