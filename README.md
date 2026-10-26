@@ -52,4 +52,4 @@ python python/02_calcular_oee.py
 - Resolvi um problema real de qualidade de dados: o separador decimal dos CSVs era lido de forma errada no Power BI em português, o que corrompia as medidas. Aprendi a conferir os totais antes de montar visuais.
 - Treinei storytelling com dados: títulos com insight, destaque só no que é problema e meta de 85% como referência.
 
-**Módulo 2 (MRP):** em andamento. (Atualizar ao concluir.)
+**Módulo 2 (MRP):Módulo 2: MRP em Python
