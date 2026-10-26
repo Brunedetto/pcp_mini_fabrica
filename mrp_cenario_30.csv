@@ -1,0 +1,61 @@
+﻿cenario;componente;semana;nec_bruta;estoque_inicial;receb_programado;disp;nec_liquida;ordem;estoque_final;liberacao;status
+Demanda +30% (sem 7+);Isolador cerâmico;1;540000;900000;0;900000;0;0;360000;;
+Demanda +30% (sem 7+);Isolador cerâmico;2;560000;360000;400000;760000;0;0;200000;;
+Demanda +30% (sem 7+);Isolador cerâmico;3;520000;200000;0;200000;420000;600000;280000;0;ATRASADA
+Demanda +30% (sem 7+);Isolador cerâmico;4;600000;280000;0;280000;420000;600000;280000;1;No prazo
+Demanda +30% (sem 7+);Isolador cerâmico;5;580000;280000;0;280000;400000;400000;100000;2;No prazo
+Demanda +30% (sem 7+);Isolador cerâmico;6;620000;100000;0;100000;620000;800000;280000;3;No prazo
+Demanda +30% (sem 7+);Isolador cerâmico;7;832000;280000;0;280000;652000;800000;248000;4;No prazo
+Demanda +30% (sem 7+);Isolador cerâmico;8;728000;248000;0;248000;580000;600000;120000;5;No prazo
+Demanda +30% (sem 7+);Isolador cerâmico;9;754000;120000;0;120000;734000;800000;166000;6;No prazo
+Demanda +30% (sem 7+);Isolador cerâmico;10;910000;166000;0;166000;844000;1000000;256000;7;No prazo
+Demanda +30% (sem 7+);Isolador cerâmico;11;936000;256000;0;256000;780000;800000;120000;8;No prazo
+Demanda +30% (sem 7+);Isolador cerâmico;12;884000;120000;0;120000;864000;1000000;236000;9;No prazo
+Demanda +30% (sem 7+);Corpo metálico;1;540000;700000;0;700000;0;0;160000;;
+Demanda +30% (sem 7+);Corpo metálico;2;560000;160000;0;160000;450000;500000;100000;0;ATRASADA
+Demanda +30% (sem 7+);Corpo metálico;3;520000;100000;0;100000;470000;500000;80000;1;No prazo
+Demanda +30% (sem 7+);Corpo metálico;4;600000;80000;0;80000;570000;750000;230000;2;No prazo
+Demanda +30% (sem 7+);Corpo metálico;5;580000;230000;0;230000;400000;500000;150000;3;No prazo
+Demanda +30% (sem 7+);Corpo metálico;6;620000;150000;0;150000;520000;750000;280000;4;No prazo
+Demanda +30% (sem 7+);Corpo metálico;7;832000;280000;0;280000;602000;750000;198000;5;No prazo
+Demanda +30% (sem 7+);Corpo metálico;8;728000;198000;0;198000;580000;750000;220000;6;No prazo
+Demanda +30% (sem 7+);Corpo metálico;9;754000;220000;0;220000;584000;750000;216000;7;No prazo
+Demanda +30% (sem 7+);Corpo metálico;10;910000;216000;0;216000;744000;750000;56000;8;No prazo
+Demanda +30% (sem 7+);Corpo metálico;11;936000;56000;0;56000;930000;1000000;120000;9;No prazo
+Demanda +30% (sem 7+);Corpo metálico;12;884000;120000;0;120000;814000;1000000;236000;10;No prazo
+Demanda +30% (sem 7+);Eletrodo central;1;540000;1200000;0;1200000;0;0;660000;;
+Demanda +30% (sem 7+);Eletrodo central;2;560000;660000;0;660000;50000;500000;600000;-2;ATRASADA
+Demanda +30% (sem 7+);Eletrodo central;3;520000;600000;500000;1100000;0;0;580000;;
+Demanda +30% (sem 7+);Eletrodo central;4;600000;580000;0;580000;170000;500000;480000;0;ATRASADA
+Demanda +30% (sem 7+);Eletrodo central;5;580000;480000;0;480000;250000;500000;400000;1;No prazo
+Demanda +30% (sem 7+);Eletrodo central;6;620000;400000;0;400000;370000;500000;280000;2;No prazo
+Demanda +30% (sem 7+);Eletrodo central;7;832000;280000;0;280000;702000;1000000;448000;3;No prazo
+Demanda +30% (sem 7+);Eletrodo central;8;728000;448000;0;448000;430000;500000;220000;4;No prazo
+Demanda +30% (sem 7+);Eletrodo central;9;754000;220000;0;220000;684000;1000000;466000;5;No prazo
+Demanda +30% (sem 7+);Eletrodo central;10;910000;466000;0;466000;594000;1000000;556000;6;No prazo
+Demanda +30% (sem 7+);Eletrodo central;11;936000;556000;0;556000;530000;1000000;620000;7;No prazo
+Demanda +30% (sem 7+);Eletrodo central;12;884000;620000;0;620000;414000;500000;236000;8;No prazo
+Demanda +30% (sem 7+);Eletrodo lateral;1;540000;800000;0;800000;0;0;260000;;
+Demanda +30% (sem 7+);Eletrodo lateral;2;560000;260000;0;260000;380000;600000;300000;0;ATRASADA
+Demanda +30% (sem 7+);Eletrodo lateral;3;520000;300000;0;300000;300000;300000;80000;1;No prazo
+Demanda +30% (sem 7+);Eletrodo lateral;4;600000;80000;0;80000;600000;600000;80000;2;No prazo
+Demanda +30% (sem 7+);Eletrodo lateral;5;580000;80000;0;80000;580000;600000;100000;3;No prazo
+Demanda +30% (sem 7+);Eletrodo lateral;6;620000;100000;0;100000;600000;600000;80000;4;No prazo
+Demanda +30% (sem 7+);Eletrodo lateral;7;832000;80000;0;80000;832000;900000;148000;5;No prazo
+Demanda +30% (sem 7+);Eletrodo lateral;8;728000;148000;0;148000;660000;900000;320000;6;No prazo
+Demanda +30% (sem 7+);Eletrodo lateral;9;754000;320000;0;320000;514000;600000;166000;7;No prazo
+Demanda +30% (sem 7+);Eletrodo lateral;10;910000;166000;0;166000;824000;900000;156000;8;No prazo
+Demanda +30% (sem 7+);Eletrodo lateral;11;936000;156000;0;156000;860000;900000;120000;9;No prazo
+Demanda +30% (sem 7+);Eletrodo lateral;12;884000;120000;0;120000;844000;900000;136000;10;No prazo
+Demanda +30% (sem 7+);Vedação;1;1080000;2000000;1000000;3000000;0;0;1920000;;
+Demanda +30% (sem 7+);Vedação;2;1120000;1920000;0;1920000;0;0;800000;;
+Demanda +30% (sem 7+);Vedação;3;1040000;800000;0;800000;440000;1000000;760000;2;No prazo
+Demanda +30% (sem 7+);Vedação;4;1200000;760000;0;760000;640000;1000000;560000;3;No prazo
+Demanda +30% (sem 7+);Vedação;5;1160000;560000;0;560000;800000;1000000;400000;4;No prazo
+Demanda +30% (sem 7+);Vedação;6;1240000;400000;0;400000;1040000;2000000;1160000;5;No prazo
+Demanda +30% (sem 7+);Vedação;7;1664000;1160000;0;1160000;704000;1000000;496000;6;No prazo
+Demanda +30% (sem 7+);Vedação;8;1456000;496000;0;496000;1160000;2000000;1040000;7;No prazo
+Demanda +30% (sem 7+);Vedação;9;1508000;1040000;0;1040000;668000;1000000;532000;8;No prazo
+Demanda +30% (sem 7+);Vedação;10;1820000;532000;0;532000;1488000;2000000;712000;9;No prazo
+Demanda +30% (sem 7+);Vedação;11;1872000;712000;0;712000;1360000;2000000;840000;10;No prazo
+Demanda +30% (sem 7+);Vedação;12;1768000;840000;0;840000;1128000;2000000;1072000;11;No prazo
