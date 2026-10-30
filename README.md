@@ -76,7 +76,7 @@ python python/02_calcular_oee.py
 
 **Dashboard de MRP (Power BI)** — cenário base, isolador cerâmico
 
-![Dashboard MRP](powerbi/pcp_modulo2_mrp.png)
+![Dashboard MRP](pcp_modulo2_mrp.png)
 
 **Cenário +30%**
 
