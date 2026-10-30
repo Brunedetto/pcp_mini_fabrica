@@ -74,6 +74,10 @@ python python/02_calcular_oee.py
 - 5 ordens já nascem atrasadas, em 4 componentes. O eletrodo central é o caso mais crítico: a ordem da semana 2 deveria ter sido liberada 2 semanas antes, por causa do lead time de 4 semanas.
 - Os estoques encostam no estoque de segurança várias vezes (eletrodo lateral em 7 semanas, corpo metálico em 5), então o lote múltiplo deixa pouca folga.
 
+**Dashboard de MRP (Power BI)** — cenário base, isolador cerâmico
+
+![Dashboard MRP](powerbi/pcp_modulo2_mrp.png)
+
 **Cenário +30%**
 
 - O volume a comprar sobe entre 17% e 25% por componente; a vedação cresce 3 milhões de peças (de 12 para 15 milhões).
